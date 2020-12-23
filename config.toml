@@ -118,6 +118,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # used in partials/contact.form.html
 # Enable the contact form by entering your Formspree.io email
-formspree            = "formspree.io"
+formspree            = "https://formspree.io/f/xrgooqvl"
 email                = "hakurban@gmail.com"
 contactFormInclEmail = true
