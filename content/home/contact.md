@@ -23,7 +23,7 @@ content:
       id: hakurban@gmail.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
