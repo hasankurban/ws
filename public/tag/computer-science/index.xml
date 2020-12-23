@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/computer-science/</link>
+      <atom:link href="https://www.hasankurban.com/tag/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Computer Science</title>
+      <link>https://www.hasankurban.com/tag/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>Practical Data Science over Nanoparticles</title>
+      <link>https://www.hasankurban.com/project/correlation/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/correlation/</guid>
+      <description>&lt;p&gt;In this work, we analyse the correlations between structural and electronic properties of anatase, brookite and rutile phases TiO2 nanoparticles (NPs) using data science techniques. For this purpose, we use the geometries of three phases TiO2 NPs under heat treatment obtained from molecular dynamics (MD) simulations in the frame of DFTB+ code. We investigate the relationships among electronic properties of TiO2 and order parameter R or segregation phenomena &amp;amp; nearest number contacts n. In this architecture, the correlations among HOMO, LUMO, Energy gap (Eg), Fermi energy (Ef), R and n have been analyzed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coral Reef Analysis</title>
+      <link>https://www.hasankurban.com/project/climate-project/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/climate-project/</guid>
+      <description>&lt;p&gt;The challenges presented by data to scientific inquiry and hypothesis testing in an oceanographic setting
+are not new problems. Indeed, the challenges are at least a century old. The problems are not with the data itself, but rather with the attention to the management of the “data ecology” in the information systems. Data needs to be accessible as an input to scientific inquiry—a requirement that goes far beyond simply centralizing the available data. Our research focuses on the development of a proofof-concept system that properly handles an information ecology. The power of such a strong foundation is then demonstrated in two ways: (1) through our data driven hypothesis generation system, built and employed for analysis of the relationship between coral disease and temperature in the Caribbean; (2) through programmatic search for patterns and anti-patterns that verify, falsify, or demonstrate no discernible relationship for a set of
+variants on a particular temperature–disease hypothesis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

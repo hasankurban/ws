@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/software-engineering/</link>
+      <atom:link href="https://www.hasankurban.com/tag/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Software Engineering</title>
+      <link>https://www.hasankurban.com/tag/software-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Coral Reef Analysis</title>
+      <link>https://www.hasankurban.com/project/climate-project/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/climate-project/</guid>
+      <description>&lt;p&gt;The challenges presented by data to scientific inquiry and hypothesis testing in an oceanographic setting
+are not new problems. Indeed, the challenges are at least a century old. The problems are not with the data itself, but rather with the attention to the management of the “data ecology” in the information systems. Data needs to be accessible as an input to scientific inquiry—a requirement that goes far beyond simply centralizing the available data. Our research focuses on the development of a proofof-concept system that properly handles an information ecology. The power of such a strong foundation is then demonstrated in two ways: (1) through our data driven hypothesis generation system, built and employed for analysis of the relationship between coral disease and temperature in the Caribbean; (2) through programmatic search for patterns and anti-patterns that verify, falsify, or demonstrate no discernible relationship for a set of
+variants on a particular temperature–disease hypothesis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

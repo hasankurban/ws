@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tags/</link>
+      <atom:link href="https://www.hasankurban.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://www.hasankurban.com/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

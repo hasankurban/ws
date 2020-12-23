@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Science | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/computational-science/</link>
+      <atom:link href="https://www.hasankurban.com/tag/computational-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Science</title>
+      <link>https://www.hasankurban.com/tag/computational-science/</link>
+    </image>
+    
+    <item>
+      <title>Structural Analysis</title>
+      <link>https://www.hasankurban.com/project/m1-project/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/m1-project/</guid>
+      <description>&lt;p&gt;In order to conduct structural analysis, we also developed programs in R language  to analyze the number of bonds, segregation phenomena, and RDF. We perform a theoretical investigation using the density functional tight binding (DFTB) approach for the structural analysis and electronic structure of copper hydride (CuH) metallic nanoparticles (NPs) of different size (from 204 to 2418 atoms). By increasing the size of CuH NPs, the number of bonds, segregation phenomena and radial distribution function (RDF) of binary Cu-Cu, Cu-H and H-H interactions are investigated using new algorithms. The results reveal that the number of bonds Cu-Cu is larger than that of Cu-H while H2 bonds are the smallest. Thus, the ability of Cu atoms to absorb large amounts of H is more than H2. The increase in the size of the NPs contributes to the stabilization because of the enhanced strength of H–H bonding. The segregation of Cu and H atoms show that Cu atoms tend to co-locate at the center, while H atoms tend to reside on the surface. From the density of state (DOS) analysis, CuH NPs shows a metallic character which is compatible with experimental data. HOMO and Fermi levels decrease from -3.555 to -3.443 eV and from -3.510 to -3.441 eV. Herein, an increase in the size contributes to the stabilization of CuH NP due to decrease in the HOMO energies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

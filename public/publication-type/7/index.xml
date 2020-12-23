@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/publication-type/7/</link>
+      <atom:link href="https://www.hasankurban.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://www.hasankurban.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>A NOVEL APPROACH TO OPTIMIZATION OF ITERATIVE MACHINE LEARNING ALGORITHMS: OVER HEAP STRUCTURE</title>
+      <link>https://www.hasankurban.com/publication/thesis/thesis/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/thesis/thesis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

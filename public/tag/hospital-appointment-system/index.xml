@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hospital Appointment System | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/hospital-appointment-system/</link>
+      <atom:link href="https://www.hasankurban.com/tag/hospital-appointment-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hospital Appointment System</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Hospital Appointment System</title>
+      <link>https://www.hasankurban.com/tag/hospital-appointment-system/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence Based Hospital Appointment System</title>
+      <link>https://www.hasankurban.com/project/healthproject/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/healthproject/</guid>
+      <description>&lt;p&gt;The fact that some of the symptoms are related to many medical treatment areas causes patients to have difficulty in making an appointment for treatment.  In this project, we design a data-driven system to find solution to this problem.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Learning | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/statistical-learning/</link>
+      <atom:link href="https://www.hasankurban.com/tag/statistical-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistical Learning</title>
+      <link>https://www.hasankurban.com/tag/statistical-learning/</link>
+    </image>
+    
+    <item>
+      <title>Practical Data Science over Nanoparticles</title>
+      <link>https://www.hasankurban.com/project/correlation/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/correlation/</guid>
+      <description>&lt;p&gt;In this work, we analyse the correlations between structural and electronic properties of anatase, brookite and rutile phases TiO2 nanoparticles (NPs) using data science techniques. For this purpose, we use the geometries of three phases TiO2 NPs under heat treatment obtained from molecular dynamics (MD) simulations in the frame of DFTB+ code. We investigate the relationships among electronic properties of TiO2 and order parameter R or segregation phenomena &amp;amp; nearest number contacts n. In this architecture, the correlations among HOMO, LUMO, Energy gap (Eg), Fermi energy (Ef), R and n have been analyzed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

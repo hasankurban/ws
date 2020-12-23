@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Transportation | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/public-transportation/</link>
+      <atom:link href="https://www.hasankurban.com/tag/public-transportation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Transportation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Public Transportation</title>
+      <link>https://www.hasankurban.com/tag/public-transportation/</link>
+    </image>
+    
+    <item>
+      <title>Public Transportation Optimization</title>
+      <link>https://www.hasankurban.com/project/bus-project/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/bus-project/</guid>
+      <description>&lt;p&gt;Using a large volume of bus data in the form of GPS coordinates (over 100 million data points) and automated
+passenger count data (over 1 million data points) we have developed (1) a system of analysis and prediction of future public transportation demand (2) a new model that uses concepts specific to college campuses that maximizes passenger satisfaction. Using these concepts we improve service of a model college public transportation service and more specifically the Indiana University Campus Bus Service (IUCBS).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R programming | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/r-programming/</link>
+      <atom:link href="https://www.hasankurban.com/tag/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>R programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>R programming</title>
+      <link>https://www.hasankurban.com/tag/r-programming/</link>
+    </image>
+    
+    <item>
+      <title>R Package</title>
+      <link>https://www.hasankurban.com/project/package-project/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/package-project/</guid>
+      <description>&lt;p&gt;In this paper we introduced the DCEM package for clustering big data. DCEM is developed using R and is publically accessible on the Comprehensive R Archive Network (CRAN) at &lt;a href=&#34;https://CRAN.R-project.org/&#34;&gt;https://CRAN.R-project.org/&lt;/a&gt;. In particular we demonstrated that significant improvements in run time and number of iterations are achieved by embedding a heap structure within the framework of the traditional expectation maximisation algorithm Dempster et al. (1977). Our package makes use of the proposed data driven approach Kurban, Jenne, and Dalkilic (2016b) that, (1) avoids visiting all data and, (2) avoid continually re-visiting the data, to speed up the convergence process. We illustrated the practical utility of DCEM by performing several experiments across application domains that highlight the significant improvement in performance. In future, we would like to 1) extend this approach to use data structures that enforce total ordering for example, kd-tree. Min heap is a partially ordered structure and hence does not enforece a strict oredering on the data. We argue that by using a totally ordered structure, we can further improve the performance of iterative learning algorithms, 2) use this approach in contemporary iterative data mining algorithms i.e., k-means, an example of such work is also discussed in Kurban and Dalkilic (2017).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

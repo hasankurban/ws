@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining | Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/tag/data-mining/</link>
+      <atom:link href="https://www.hasankurban.com/tag/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Mining</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Mining</title>
+      <link>https://www.hasankurban.com/tag/data-mining/</link>
+    </image>
+    
+    <item>
+      <title>R Package</title>
+      <link>https://www.hasankurban.com/project/package-project/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/package-project/</guid>
+      <description>&lt;p&gt;In this paper we introduced the DCEM package for clustering big data. DCEM is developed using R and is publically accessible on the Comprehensive R Archive Network (CRAN) at &lt;a href=&#34;https://CRAN.R-project.org/&#34;&gt;https://CRAN.R-project.org/&lt;/a&gt;. In particular we demonstrated that significant improvements in run time and number of iterations are achieved by embedding a heap structure within the framework of the traditional expectation maximisation algorithm Dempster et al. (1977). Our package makes use of the proposed data driven approach Kurban, Jenne, and Dalkilic (2016b) that, (1) avoids visiting all data and, (2) avoid continually re-visiting the data, to speed up the convergence process. We illustrated the practical utility of DCEM by performing several experiments across application domains that highlight the significant improvement in performance. In future, we would like to 1) extend this approach to use data structures that enforce total ordering for example, kd-tree. Min heap is a partially ordered structure and hence does not enforece a strict oredering on the data. We argue that by using a totally ordered structure, we can further improve the performance of iterative learning algorithms, 2) use this approach in contemporary iterative data mining algorithms i.e., k-means, an example of such work is also discussed in Kurban and Dalkilic (2017).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iterative Machine Learning</title>
+      <link>https://www.hasankurban.com/project/kmeans-project/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/kmeans-project/</guid>
+      <description>&lt;p&gt;In this work, we have described an optimization approach that can be used over any iterative optimization
+algorithms to improve their training run-time complexity. To the best of our knowledge, this is the first work that theoretically shows convergence of iterative algorithms over heap structure–instead of over a cost function. This approach is tested over k-means (KM) and expectation-maximization algorithm (EM-T). The experimental results show dramatic improvements over KM and EM-T training run-time through different kinds of testing: scale, dimension, and separability. Regarding cluster error, the traditional algorithms’ and our
+extended algorithms’ performances are similar. For future work, clearly one obvious step is to add seeding to KM* drawing from both k-means++ and kd trees. Additionally,we are interested in the broader question of this approach to iterative converging algorithms. Further, are there better structures than heaps? Lastly, parallelization offers some new challenges, but also opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Data</title>
+      <link>https://www.hasankurban.com/project/em-project/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/em-project/</guid>
+      <description>&lt;p&gt;Existing data mining techniques, more particularly iterative learning algorithms, become overwhelmed with big data. While parallelism is an obvious and, usually, necessary strategy, we observe that both (1) continually
+revisiting data and (2) visiting all data are two of the most prominent problems especially for iterative, unsupervised algorithms like Expectation Maximization algorithm for clustering (EM-T). Our strategy is to embed EM-T into a non-linear hierarchical data structure (heap) that allows us to (1) separate data that needs to be revisited from data that does not and (2) narrow the iteration toward the data that is more difficult to cluster. We call this extended EM-T, EM*. We show our EM* algorithm outperform EM-T algorithm over large real world and synthetic data sets. We lastly conclude with some theoretic underpinnings that explain why EM* is successful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying the Milky Way</title>
+      <link>https://www.hasankurban.com/project/astronomy-project/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/astronomy-project/</guid>
+      <description>&lt;p&gt;Dramatic increases in the amount and complexity of stellar data must be matched by new or refined algorithms that can help scientists make sense of this data and so better understand the universe. ParaHeap-k is a parallel cluster algorithm for analyzing big data that can potentially prove useful to astronomical research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

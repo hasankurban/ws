@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hasan Kurban, Ph.D.</title>
+    <link>https://www.hasankurban.com/</link>
+      <atom:link href="https://www.hasankurban.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hasan Kurban, Ph.D.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Code with  and  Blogdown
+© Hasan Kurban, 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Hasan Kurban, Ph.D.</title>
+      <link>https://www.hasankurban.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://www.hasankurban.com/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical Data Science: Examining the Correlations between Structural and Electronic Properties of Different Phases of TiO2 Nanoparticles</title>
+      <link>https://www.hasankurban.com/publication/datasciencenano/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/datasciencenano/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare-class Learning over Mg-Doped ZnO Nanoparticles</title>
+      <link>https://www.hasankurban.com/publication/rareclass/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/rareclass/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effect of Mg content on electronic structure, optical and structural properties of amorphous ZnO nanoparticles: A DFTB study</title>
+      <link>https://www.hasankurban.com/publication/mgzno/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/mgzno/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atom Classication with Machine Learning and Correlations among Physical Properties of ZnO Nanoparticle</title>
+      <link>https://www.hasankurban.com/publication/appliedscience/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/appliedscience/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atom Type Prediction with Machine Learning</title>
+      <link>https://www.hasankurban.com/project/atomtypeprediction/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/atomtypeprediction/</guid>
+      <description>&lt;p&gt;Our aim is to determine machine learning  (ML) algorithms that can learn nanoparticles best. The mathematical structural features of the ML algorithm which is most compatible with such data  can help material scientist estimate behavior, structural and electronic properties of nano particles in different temperatures and phases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Based Hospital Appointment System</title>
+      <link>https://www.hasankurban.com/project/healthproject/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/healthproject/</guid>
+      <description>&lt;p&gt;The fact that some of the symptoms are related to many medical treatment areas causes patients to have difficulty in making an appointment for treatment.  In this project, we design a data-driven system to find solution to this problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical Data Science over Nanoparticles</title>
+      <link>https://www.hasankurban.com/project/correlation/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/correlation/</guid>
+      <description>&lt;p&gt;In this work, we analyse the correlations between structural and electronic properties of anatase, brookite and rutile phases TiO2 nanoparticles (NPs) using data science techniques. For this purpose, we use the geometries of three phases TiO2 NPs under heat treatment obtained from molecular dynamics (MD) simulations in the frame of DFTB+ code. We investigate the relationships among electronic properties of TiO2 and order parameter R or segregation phenomena &amp;amp; nearest number contacts n. In this architecture, the correlations among HOMO, LUMO, Energy gap (Eg), Fermi energy (Ef), R and n have been analyzed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Atom Types of Anatase TiO2 Nanoparticles with Machine Learning</title>
+      <link>https://www.hasankurban.com/publication/atomprediction/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/atomprediction/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Proximity of Medical Treatment Areas with Text Mining</title>
+      <link>https://www.hasankurban.com/publication/health/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/health/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Clustering with EM (DCEM) for Big Data, an R Package</title>
+      <link>https://www.hasankurban.com/publication/rpackage/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/rpackage/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tailoring the structural properties and electronic structure of anatase, brookite and rutile phase TiO2 nanoparticles: DFTB calculations</title>
+      <link>https://www.hasankurban.com/publication/to2/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/to2/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Analysis of  TiO2 Nanoparticles</title>
+      <link>https://www.hasankurban.com/project/to/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/to/</guid>
+      <description>&lt;p&gt;In this study, we perform a theoretical investigation using the density functional tight binding (DFTB) approach for the structural analysis and electronic structure of anatase, brookite and rutile phase TiO2 nanoparticles (NPs). Our results show that the number of Ti-O bonds is more than that of O-O while the number of Ti-Ti bonds are the less. Thus, large amount of O atoms prefers to connect to Ti atoms. The increase in the temperature of the NPs contributes to an increase in the interaction of Ti–O bonding, but a decrease in the O-O bonding. The segregation of Ti and O atoms shows that Ti atoms tend to co-locate at the center, while O atoms tend to reside on the surface. Increasing temperature causes decrease of the bandgap from 3.59 to 2.62 eV for brookite phase, which is much more energetically favorable compared to bulk while it could increase the bandgap from 3.15 to 3.61 eV for anatase phase. For three phase TiO2 NPs, LUMO and Fermi levels decrease. The HOMO level of anatase phase NP decrease, but it increases for brookite and rutile phase TiO2 nanoparticles. Herein, an increase in the temperature contributes to the stabilization of anatase phase TiO2 NP due to decrease in the HOMO energies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R Package</title>
+      <link>https://www.hasankurban.com/project/package-project/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/package-project/</guid>
+      <description>&lt;p&gt;In this paper we introduced the DCEM package for clustering big data. DCEM is developed using R and is publically accessible on the Comprehensive R Archive Network (CRAN) at &lt;a href=&#34;https://CRAN.R-project.org/&#34;&gt;https://CRAN.R-project.org/&lt;/a&gt;. In particular we demonstrated that significant improvements in run time and number of iterations are achieved by embedding a heap structure within the framework of the traditional expectation maximisation algorithm Dempster et al. (1977). Our package makes use of the proposed data driven approach Kurban, Jenne, and Dalkilic (2016b) that, (1) avoids visiting all data and, (2) avoid continually re-visiting the data, to speed up the convergence process. We illustrated the practical utility of DCEM by performing several experiments across application domains that highlight the significant improvement in performance. In future, we would like to 1) extend this approach to use data structures that enforce total ordering for example, kd-tree. Min heap is a partially ordered structure and hence does not enforece a strict oredering on the data. We argue that by using a totally ordered structure, we can further improve the performance of iterative learning algorithms, 2) use this approach in contemporary iterative data mining algorithms i.e., k-means, an example of such work is also discussed in Kurban and Dalkilic (2017).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controlling structural and electronic properties of ZnO NPs: Density-functional tight-binding method</title>
+      <link>https://www.hasankurban.com/publication/jm3/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/jm3/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study of Structural and Optoelectronic Properties of Hexagonal ZnO Nanoparticles</title>
+      <link>https://www.hasankurban.com/publication/cm2/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/cm2/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles</title>
+      <link>https://www.hasankurban.com/publication/jm1/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/jm1/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Size Dependent Electronic Structure and Structural Properties of Cupric Oxide (CuO) NanoParticles</title>
+      <link>https://www.hasankurban.com/publication/jm2/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/jm2/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structural Analysis</title>
+      <link>https://www.hasankurban.com/project/m1-project/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/m1-project/</guid>
+      <description>&lt;p&gt;In order to conduct structural analysis, we also developed programs in R language  to analyze the number of bonds, segregation phenomena, and RDF. We perform a theoretical investigation using the density functional tight binding (DFTB) approach for the structural analysis and electronic structure of copper hydride (CuH) metallic nanoparticles (NPs) of different size (from 204 to 2418 atoms). By increasing the size of CuH NPs, the number of bonds, segregation phenomena and radial distribution function (RDF) of binary Cu-Cu, Cu-H and H-H interactions are investigated using new algorithms. The results reveal that the number of bonds Cu-Cu is larger than that of Cu-H while H2 bonds are the smallest. Thus, the ability of Cu atoms to absorb large amounts of H is more than H2. The increase in the size of the NPs contributes to the stabilization because of the enhanced strength of H–H bonding. The segregation of Cu and H atoms show that Cu atoms tend to co-locate at the center, while H atoms tend to reside on the surface. From the density of state (DOS) analysis, CuH NPs shows a metallic character which is compatible with experimental data. HOMO and Fermi levels decrease from -3.555 to -3.443 eV and from -3.510 to -3.441 eV. Herein, an increase in the size contributes to the stabilization of CuH NP due to decrease in the HOMO energies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://www.hasankurban.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Transportation Optimization</title>
+      <link>https://www.hasankurban.com/project/bus-project/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/bus-project/</guid>
+      <description>&lt;p&gt;Using a large volume of bus data in the form of GPS coordinates (over 100 million data points) and automated
+passenger count data (over 1 million data points) we have developed (1) a system of analysis and prediction of future public transportation demand (2) a new model that uses concepts specific to college campuses that maximizes passenger satisfaction. Using these concepts we improve service of a model college public transportation service and more specifically the Indiana University Campus Bus Service (IUCBS).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using data analytics to optimize public transportation on a college campus</title>
+      <link>https://www.hasankurban.com/publication/bus/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/bus/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A novel approach to optimization of iterative machine learning algorithms: Over heap structure</title>
+      <link>https://www.hasankurban.com/publication/bigdataem/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/bigdataem/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving expectation maximization algorithm over stellar data</title>
+      <link>https://www.hasankurban.com/publication/case2/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/case2/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iterative Machine Learning</title>
+      <link>https://www.hasankurban.com/project/kmeans-project/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/kmeans-project/</guid>
+      <description>&lt;p&gt;In this work, we have described an optimization approach that can be used over any iterative optimization
+algorithms to improve their training run-time complexity. To the best of our knowledge, this is the first work that theoretically shows convergence of iterative algorithms over heap structure–instead of over a cost function. This approach is tested over k-means (KM) and expectation-maximization algorithm (EM-T). The experimental results show dramatic improvements over KM and EM-T training run-time through different kinds of testing: scale, dimension, and separability. Regarding cluster error, the traditional algorithms’ and our
+extended algorithms’ performances are similar. For future work, clearly one obvious step is to add seeding to KM* drawing from both k-means++ and kd trees. Additionally,we are interested in the broader question of this approach to iterative converging algorithms. Further, are there better structures than heaps? Lastly, parallelization offers some new challenges, but also opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case Study: Clustering Big Stellar Data with EM</title>
+      <link>https://www.hasankurban.com/publication/case-study1/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/case-study1/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;p&gt;Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A NOVEL APPROACH TO OPTIMIZATION OF ITERATIVE MACHINE LEARNING ALGORITHMS: OVER HEAP STRUCTURE</title>
+      <link>https://www.hasankurban.com/publication/thesis/thesis/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/thesis/thesis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Data</title>
+      <link>https://www.hasankurban.com/project/em-project/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/em-project/</guid>
+      <description>&lt;p&gt;Existing data mining techniques, more particularly iterative learning algorithms, become overwhelmed with big data. While parallelism is an obvious and, usually, necessary strategy, we observe that both (1) continually
+revisiting data and (2) visiting all data are two of the most prominent problems especially for iterative, unsupervised algorithms like Expectation Maximization algorithm for clustering (EM-T). Our strategy is to embed EM-T into a non-linear hierarchical data structure (heap) that allows us to (1) separate data that needs to be revisited from data that does not and (2) narrow the iteration toward the data that is more difficult to cluster. We call this extended EM-T, EM*. We show our EM* algorithm outperform EM-T algorithm over large real world and synthetic data sets. We lastly conclude with some theoretic underpinnings that explain why EM* is successful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using data to build a better EM: EM* for big data</title>
+      <link>https://www.hasankurban.com/publication/jdsaa/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/jdsaa/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Em*: An em algorithm for big data</title>
+      <link>https://www.hasankurban.com/publication/emdsaa/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/emdsaa/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMPLOYING SOFTWARE ENGINEERING PRINCIPLES TO ENHANCE MANAGEMENT OF CLIMATOLOGICAL DATASETS FOR CORAL REEF ANALYSIS</title>
+      <link>https://www.hasankurban.com/publication/coral/</link>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/coral/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coral Reef Analysis</title>
+      <link>https://www.hasankurban.com/project/climate-project/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/climate-project/</guid>
+      <description>&lt;p&gt;The challenges presented by data to scientific inquiry and hypothesis testing in an oceanographic setting
+are not new problems. Indeed, the challenges are at least a century old. The problems are not with the data itself, but rather with the attention to the management of the “data ecology” in the information systems. Data needs to be accessible as an input to scientific inquiry—a requirement that goes far beyond simply centralizing the available data. Our research focuses on the development of a proofof-concept system that properly handles an information ecology. The power of such a strong foundation is then demonstrated in two ways: (1) through our data driven hypothesis generation system, built and employed for analysis of the relationship between coral disease and temperature in the Caribbean; (2) through programmatic search for patterns and anti-patterns that verify, falsify, or demonstrate no discernible relationship for a set of
+variants on a particular temperature–disease hypothesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://www.hasankurban.com/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-admin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random Forest</title>
+      <link>https://www.hasankurban.com/project/rf-project/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/rf-project/</guid>
+      <description>&lt;p&gt;Random Forests have been used as effective ensemble models for classification. We present in this paper a new type of Random Forests (RFs) called Red(uced)-RF that adopts a new dynamic data reduction principle and a new voting mechanism called Priority Vote Weighting (PV) which improve accuracy, execution time and AUC values compared to Breiman’s RF. Red-RF also shows that the strength of a random forest can increase without noticeably increasing correlation between the trees. We then compare performance of Red-RF and Breiman’s RF in 8 experiments that involve classification problems with datasets of different sizes. Finally, we conduct two additional experiments that involve considerably larger datasets with one million points in each.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Red-RF: Reduced random forest for big data using priority voting &amp; dynamic data reduction</title>
+      <link>https://www.hasankurban.com/publication/bigdatarf2/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/bigdatarf2/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new set of Random Forests with varying dynamic data reduction and voting techniques</title>
+      <link>https://www.hasankurban.com/publication/dsaarf/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/dsaarf/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying the Milky Way</title>
+      <link>https://www.hasankurban.com/project/astronomy-project/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/project/astronomy-project/</guid>
+      <description>&lt;p&gt;Dramatic increases in the amount and complexity of stellar data must be matched by new or refined algorithms that can help scientists make sense of this data and so better understand the universe. ParaHeap-k is a parallel cluster algorithm for analyzing big data that can potentially prove useful to astronomical research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying the milky way galaxy using paraheap-k</title>
+      <link>https://www.hasankurban.com/publication/ast/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/publication/ast/</guid>
+      <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.hasankurban.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hasankurban.com/home/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;⁃	---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;homepage&#34;&gt;Homepage&lt;/h1&gt;
+&lt;p&gt;type: widget_page&lt;/p&gt;
+&lt;h1 id=&#34;homepage-is-headless-other-widget-pages-are-not&#34;&gt;Homepage is headless, other widget pages are not.&lt;/h1&gt;
+&lt;h2 id=&#34;headless-true&#34;&gt;headless: true&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

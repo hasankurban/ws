@@ -1,0 +1,2285 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Hasan Kurban">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Hasan Kurban, Indiana University Bloominngton, Assistant Professor, Researh Interests: Machine Learning, Data Minning, Big Data, Artificial Intelligence, Computer Science and Data Science">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://www.hasankurban.com/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://www.hasankurban.com/css/wowchemy.min.18a81fcba9746c6a8230584f1af667d5.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37440121-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-37440121-3', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+  <link rel="alternate" href="https://www.hasankurban.com/index.xml" type="application/rss+xml" title="Hasan Kurban, Ph.D.">
+  
+
+  <link rel="manifest" href="https://www.hasankurban.com/index.webmanifest">
+  <link rel="icon" type="image/png" href="https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://www.hasankurban.com/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Hasan Kurban, Ph.D.">
+  <meta property="og:url" content="https://www.hasankurban.com/">
+  <meta property="og:title" content="Hasan Kurban, Ph.D.">
+  <meta property="og:description" content="Hasan Kurban, Indiana University Bloominngton, Assistant Professor, Researh Interests: Machine Learning, Data Minning, Big Data, Artificial Intelligence, Computer Science and Data Science"><meta property="og:image" content="https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.hasankurban.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://www.hasankurban.com/"
+}
+</script>
+
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>Hasan Kurban, Ph.D.</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  <script src="https://www.hasankurban.com/js/wowchemy-init.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="https://www.hasankurban.com/">Hasan Kurban, Ph.D.</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="https://www.hasankurban.com/">Hasan Kurban, Ph.D.</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="https://www.hasankurban.com/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.hasankurban.com/#projects" data-target="#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.hasankurban.com/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.hasankurban.com/teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.hasankurban.com/media/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.hasankurban.com/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle" src="https://www.hasankurban.com/author/hasan-kurban/avatar_hu3dc37bf4213f6d80730de1c0f9b3a936_351712_270x270_fill_q75_lanczos_center.jpg" alt="Hasan Kurban">
+      
+
+      <div class="portrait-title">
+        <h2>Hasan Kurban</h2>
+        <h3>Hasan Kurban, Ph.D.</h3>
+
+        
+        <h3>
+          
+          <span>Computer &amp; Data Scientist</span>
+          
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a href="mailto:hakurban@gmail.com"  aria-label="envelope">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.linkedin.com/in/hasan-kurban-ph-d-8071a038/" target="_blank" rel="noopener" aria-label="linkedin-in">
+            <i class="fab fa-linkedin-in big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://scholar.google.com/citations?user=i8riPvIAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="google-scholar">
+            <i class="fab fa-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/hasankurban" target="_blank" rel="noopener" aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://orcid.org/0000-0003-3142-2866" target="_blank" rel="noopener" aria-label="orcid">
+            <i class="fab fa-orcid big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.researchgate.net/profile/Hasan_Kurban" target="_blank" rel="noopener" aria-label="researchgate">
+            <i class="fab fa-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.instagram.com/hasankurban.cs/?hl=en" target="_blank" rel="noopener" aria-label="instagram">
+            <i class="fab fa-instagram big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.hasankurban.com/media/cv.pdf"  aria-label="cv">
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Biography</h1>
+
+    <div class="article-style">
+      <p>My research and teaching interests include machine learning, data mining, big data, data science and artificial intelligence. During my PhD, I found the opportunity to study machine learning (ML) and data mining (DM) algorithms theoritacally in depth and my doctoral thesis was about an optimization framework designed to improve ML and DM algorithms from a data centric perspective over big data. I have  published various peer-reviewed articles and taught several graduate and undergraduates classes  regarding those disciplines. In my professionel life  I  enjoy building intelligent systems to find data-driven solutions to real-world problems.</p>
+
+    </div>
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Machine Learning</li>
+          
+          <li>Data Mining</li>
+          
+          <li>Data Science</li>
+          
+          <li>Data Analytics</li>
+          
+          <li>Artificial Intelligence</li>
+          
+          <li>Computer Science</li>
+          
+          <li>Big Data</li>
+          
+          <li>Teaching and Learning</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Ph.D., Computer Science, Sep 2017</p>
+              <p class="institution">Indiana University Bloomington</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">M.Sc., Computer Science, May 2012</p>
+              <p class="institution">Indiana University Bloomington</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">B.Sc., Mathematics, June 2008</p>
+              <p class="institution">Inonu University</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="col-12 section-heading text-center">
+            <h1>Projects</h1>
+            <p>FEATURED PUBLICATIONS</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="col-12 ">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Machine-Learning" class="btn btn-primary btn-lg">Machine Learning</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Big-Data" class="btn btn-primary btn-lg">Big Data</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Data-Science" class="btn btn-primary btn-lg">Data Science</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Artificial-Intelligence" class="btn btn-primary btn-lg">Artificial Intelligence</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Data-Mining" class="btn btn-primary btn-lg">Data Mining</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Software-Engineering" class="btn btn-primary btn-lg">Software Engineering</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Analytics" class="btn btn-primary btn-lg">Analytics</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Material-Science js-id-Nanoparticles js-id-Artificial-intelligence js-id-Machine-Learning">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/atomtypeprediction/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/atomtypeprediction/featured_hub755a14b81d194d67856a7d9fa256171_413823_469fada224727d28161c6869345ff4e5.png" data-src="https://www.hasankurban.com/project/atomtypeprediction/featured_hub755a14b81d194d67856a7d9fa256171_413823_550x0_resize_lanczos_2.png" alt="Atom Type Prediction with Machine Learning" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/atomtypeprediction/" >Atom Type Prediction with Machine Learning</a></h4>
+      
+      <div class="article-style">
+        <p>Predicting Atom Types in Different Temperatures</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Analytics js-id-Artificial-intelligence js-id-Machine-Learning js-id-Health js-id-Text-Mining js-id-Hospital-Appointment-System">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/healthproject/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/healthproject/featured_hu3b10f975766845e212ef54f63e8ad0bb_270424_2eca81bda40a176a9a596e05cba96a5c.png" data-src="https://www.hasankurban.com/project/healthproject/featured_hu3b10f975766845e212ef54f63e8ad0bb_270424_550x0_resize_lanczos_2.png" alt="Artificial Intelligence Based Hospital Appointment System" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/healthproject/" >Artificial Intelligence Based Hospital Appointment System</a></h4>
+      
+      <div class="article-style">
+        <p>Hospital Appointment System</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Analytics js-id-Statistical-Learning js-id-Computer-Science js-id-Data-Analytics js-id-Material-Science js-id-Nanoparticles">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/correlation/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/correlation/featured_hu4d482355ff29262de627c88670718d7b_171035_d178ff85860525b48bbb8bd6c9f35ee0.png" data-src="https://www.hasankurban.com/project/correlation/featured_hu4d482355ff29262de627c88670718d7b_171035_550x0_resize_lanczos_2.png" alt="Practical Data Science over Nanoparticles" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/correlation/" >Practical Data Science over Nanoparticles</a></h4>
+      
+      <div class="article-style">
+        <p>Data Science</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Data-Analysis js-id-DFTB js-id-Nanoparticles js-id-Material-Science">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/to/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/to/featured_hude4a28f4872973ce1fe012390ff5399f_253876_8c25a61b404ac3446676bc8fa058eef1.jpg" data-src="https://www.hasankurban.com/project/to/featured_hude4a28f4872973ce1fe012390ff5399f_253876_550x0_resize_q75_lanczos.jpg" alt="Deep Analysis of  TiO2 Nanoparticles" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/to/" >Deep Analysis of  TiO2 Nanoparticles</a></h4>
+      
+      <div class="article-style">
+        <p>DFTB calculations</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Unsupervised-Learning js-id-Clustering js-id-Big-Data js-id-Expectation-Maximization js-id-Data-Mining js-id-Heap js-id-R-programming">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/package-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/package-project/featured_hu4caaca62df3dfaa018728d99f06aedd0_208301_3f0b7c6208ff70765f8892b7cbba45cd.png" data-src="https://www.hasankurban.com/project/package-project/featured_hu4caaca62df3dfaa018728d99f06aedd0_208301_550x0_resize_lanczos_2.png" alt="R Package" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/package-project/" >R Package</a></h4>
+      
+      <div class="article-style">
+        <p>Data Clustering with EM (DCEM) for Big Data, an R package</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Computational-Science js-id-Nanoparticles js-id-Material-Science js-id-Data-Analysis">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/m1-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/m1-project/featured_hu7f4dff75b10418f62340929e14a43fa2_1887847_c81ee0c8371b8005693893f91f94515e.png" data-src="https://www.hasankurban.com/project/m1-project/featured_hu7f4dff75b10418f62340929e14a43fa2_1887847_550x0_resize_lanczos_2.png" alt="Structural Analysis" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/m1-project/" >Structural Analysis</a></h4>
+      
+      <div class="article-style">
+        <p>Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Big-Data js-id-Data-Science js-id-Public-Transportation">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/bus-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/bus-project/featured_hu0d8ebb7eaffbe70ccce793b9cc349d60_242434_fbd4ecb3d37bab8d96a09c16b5df1157.jpg" data-src="https://www.hasankurban.com/project/bus-project/featured_hu0d8ebb7eaffbe70ccce793b9cc349d60_242434_550x0_resize_q75_lanczos.jpg" alt="Public Transportation Optimization" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/bus-project/" >Public Transportation Optimization</a></h4>
+      
+      <div class="article-style">
+        <p>Using Data Analytics to Optimize Public Transportation on a College Campus</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Clustering js-id-Big-Data js-id-Machine-Learning js-id-Data-Mining js-id-Heap">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/kmeans-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/kmeans-project/featured_hu56b4d2f192d50944fc98421312fc4f5a_821488_691b5355b039e324afc80f3ad34d5a81.png" data-src="https://www.hasankurban.com/project/kmeans-project/featured_hu56b4d2f192d50944fc98421312fc4f5a_821488_550x0_resize_lanczos_2.png" alt="Iterative Machine Learning" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/kmeans-project/" >Iterative Machine Learning</a></h4>
+      
+      <div class="article-style">
+        <p>A Novel Approach to Optimization of Iterative Machine Learning Algorithms</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Clustering js-id-Big-Data js-id-Expectation-Maximization js-id-Data-Mining js-id-Heap js-id-Artificial-Intelligence">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/em-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/em-project/featured_hu2c516cd2c2a5f901d772bb6c73234681_409442_d1e52dca958e2d0a4e5dcd6063bbe59b.jpg" data-src="https://www.hasankurban.com/project/em-project/featured_hu2c516cd2c2a5f901d772bb6c73234681_409442_550x0_resize_q75_lanczos.jpg" alt="Clustering Big Data" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/em-project/" >Clustering Big Data</a></h4>
+      
+      <div class="article-style">
+        <p>An Expectation Maximization Algorithm for Big Data</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Software-Engineering js-id-Computer-Science js-id-Reef-Analysis">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/climate-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/climate-project/featured_hub4d407fce0fe5079acc87dda7e17a94a_811142_5bb15c149864291f62f8f95baa463131.png" data-src="https://www.hasankurban.com/project/climate-project/featured_hub4d407fce0fe5079acc87dda7e17a94a_811142_550x0_resize_lanczos_2.png" alt="Coral Reef Analysis" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/climate-project/" >Coral Reef Analysis</a></h4>
+      
+      <div class="article-style">
+        <p>EMPLOYING SOFTWARE ENGINEERING PRINCIPLES TO  CLIMATOLOGICAL DATASETS</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Classification js-id-Big-Data js-id-Random-Forests js-id-Weighted-Voting js-id-Machine-Learning js-id-Artificial-Intelligence">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/rf-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/rf-project/featured_hu73f2827933a8addd0eddd0d7113556f1_44410_d026d8851aad654e3fda0b964a3bbf95.png" data-src="https://www.hasankurban.com/project/rf-project/featured_hu73f2827933a8addd0eddd0d7113556f1_44410_550x0_resize_lanczos_2.png" alt="Random Forest" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/rf-project/" >Random Forest</a></h4>
+      
+      <div class="article-style">
+        <p>Reduced random forest for big data using priority voting &amp; dynamic data reduction</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Clustering js-id-Big-Data js-id-Expectation-Maximization js-id-Data-Mining js-id-Heap">
+  <div class="card">
+    
+    
+    
+    
+    <a href="https://www.hasankurban.com/project/astronomy-project/"  class="card-image hover-overlay">
+      <img src="https://www.hasankurban.com/project/astronomy-project/featured_hub8b23e8af9c7f37dbb0a4f257d38d43e_1085592_e230abf0b670b84e10cb82829b5e7285.png" data-src="https://www.hasankurban.com/project/astronomy-project/featured_hub8b23e8af9c7f37dbb0a4f257d38d43e_1085592_550x0_resize_lanczos_2.png" alt="Studying the Milky Way" class="img-responsive lazyload">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.hasankurban.com/project/astronomy-project/" >Studying the Milky Way</a></h4>
+      
+      <div class="article-style">
+        <p>Studying the milky way galaxy using paraheap-k</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="tags" class="home-section wg-tag-cloud  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Popular Topics</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    <div class="tag-cloud">
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/academic/" style="font-size:0.7rem">Academic</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/analytics/" style="font-size:1.1333333333333333rem">Analytics</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/artificial-intelligence/" style="font-size:1.5666666666666669rem">Artificial intelligence</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/big-data/" style="font-size:1.8201504169791678rem">Big Data</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/classification/" style="font-size:0.7rem">Classification</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/clustering/" style="font-size:1.5666666666666669rem">Clustering</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/computational-science/" style="font-size:0.7rem">Computational Science</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/computer-science/" style="font-size:1.1333333333333333rem">Computer Science</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/data-analysis/" style="font-size:1.1333333333333333rem">Data Analysis</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/data-analytics/" style="font-size:0.7rem">Data Analytics</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/data-mining/" style="font-size:1.5666666666666669rem">Data Mining</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/data-science/" style="font-size:1.916520466224962rem">Data Science</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/dftb/" style="font-size:0.7rem">DFTB</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/expectation-maximization/" style="font-size:1.3868170836458344rem">Expectation Maximization</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/health/" style="font-size:0.7rem">Health</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/heap/" style="font-size:1.5666666666666669rem">Heap</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/hospital-appointment-system/" style="font-size:0.7rem">Hospital Appointment System</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/machine-learning/" style="font-size:1.5666666666666669rem">Machine Learning</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/material-science/" style="font-size:1.5666666666666669rem">Material Science</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/nanoparticles/" style="font-size:1.5666666666666669rem">Nanoparticles</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/public-transportation/" style="font-size:0.7rem">Public Transportation</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/r-programming/" style="font-size:0.7rem">R programming</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/random-forests/" style="font-size:0.7rem">Random Forests</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/reef-analysis/" style="font-size:0.7rem">Reef Analysis</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/software-engineering/" style="font-size:0.7rem">Software Engineering</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/statistical-learning/" style="font-size:0.7rem">Statistical Learning</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/text-mining/" style="font-size:0.7rem">Text Mining</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/unsupervised-learning/" style="font-size:0.7rem">Unsupervised Learning</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/weighted-voting/" style="font-size:0.7rem">Weighted Voting</a>
+      
+        
+        
+        
+        <a href="https://www.hasankurban.com/tag/%E5%BC%80%E6%BA%90/" style="font-size:0.7rem">开源</a>
+      
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="contact" class="home-section wg-contact  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Contact</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" >
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        
+          <div class="d-none">
+            <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
+          </div>
+          
+        
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
+      </form>
+    </div>
+  
+
+  <ul class="fa-ul">
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+    <p class="powered-by">
+        Code with <i class='fas fa-heart'></i> and <i class='fab fa-r-project'></i> <a href='https://bookdown.org/yihui/blogdown/'>Blogdown</a><br>© Hasan Kurban, 2020
+    </p>
+</footer>
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="https://www.hasankurban.com/js/wowchemy.min.abf79d5abd9391a904c9b122bfe98c04.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
