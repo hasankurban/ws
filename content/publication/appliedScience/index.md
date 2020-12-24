@@ -1,5 +1,5 @@
 ---
-title: "Atom Classication with Machine Learning and Correlations among Physical Properties of ZnO Nanoparticle"
+title: "Atom Classification with Machine Learning and Correlations among Physical Properties of ZnO Nanoparticle"
 authors:
 - Hasan Kurban
 date: "2020-11-13T00:00:00Z"
