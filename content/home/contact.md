@@ -21,7 +21,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: "gooqvl"
+      id: "xrgooqvl"
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
