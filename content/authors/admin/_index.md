@@ -30,13 +30,19 @@ interests:
 education:
  courses:  
   - course: Ph.D., Computer Science
-    institution: Indiana University Bloomington
+    institution: Indiana University Bloomington, IN, USA
     year: Sep 2017
   - course: M.Sc., Computer Science
-    institution: Indiana University Bloomington
+    institution: Indiana University Bloomington, IN, USA
     year: May 2012
+  - course: EAP
+    institution: University of Connecticut, CT, USA
+    year: July 2010
+  - course: EAP
+    institution: Marmara University, Istanbul, Turkey
+    year: June 2009 
   - course: B.Sc., Mathematics
-    institution: Inonu University
+    institution: Inonu University, Malatya, Turkey
     year: June 2008 
 
 # Social/Academic Networking
