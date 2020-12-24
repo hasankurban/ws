@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Computer Science
 - Big Data
+- Computational Science
 - Teaching and Learning
 
 # Education to show in About widget
