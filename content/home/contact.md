@@ -3,6 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
+
 # This file represents a page section.
 headless: true
 
@@ -20,7 +21,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: hakurban@gmail.com
+      id: https://formspree.io/f/xrgooqvl
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
