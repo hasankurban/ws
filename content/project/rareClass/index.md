@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Predicting Atom Types in Different Temperatures 
+summary: Rare-class Learning over Mg-Doped ZnO Nanoparticles
 tags:
 - Extreme Gradient Boosting
 - Material Science
@@ -22,7 +22,7 @@ tags:
 - Kernel methods
 - Support vector machines
 
-title: Rare-class Learning over Mg-Doped ZnO Nanoparticles
+title: Rare-class Learning 
 url_code: ""
 url_pdf: ""
 url_slides: ""
