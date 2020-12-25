@@ -50,7 +50,7 @@ subtitle = "FEATURED PUBLICATIONS"
          tag = "Software Engineering"  
          
 [[content.filter_button]]
-         name = "Analytics"
+         name = "Data Analytics"
           tag = "Analytics"  
           
          
