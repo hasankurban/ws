@@ -20,7 +20,7 @@ tags:
 - Artificial intelligence
 - Machine Learning
 
-title: Atom Type Prediction with Machine Learning
+title: Atom Type Prediction 
 url_code: ""
 url_pdf: ""
 url_slides: ""
