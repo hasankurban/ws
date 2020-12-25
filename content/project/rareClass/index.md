@@ -29,4 +29,4 @@ url_slides: ""
 url_video: ""
 ---
 
-This interdisciplinary study is conducted to find answers to two important questions which researchers often face in both Machine Learning (ML) and Material Science (MS) fields. Herein, ML has grown up in various fields such as data mining to explore the structure of the data through modeling. In this work, we measure the performance of the most popular ML algorithms (more than a dozen) on rare-class learning problem and determine the best learning algorithm for atom type prediction over the Mg-doped ZnO nanoparticles data obtained from the density-functional tight-binding method. 
+This interdisciplinary study is conducted to find answers to two important questions which researchers often face in both Machine Learning (ML) and Material Science (MS) fields. In this work, we measure the performance of the most popular ML algorithms (more than a dozen) on rare-class learning problem and determine the best learning algorithm for atom type prediction over the Mg-doped ZnO nanoparticles data obtained from the density-functional tight-binding method. 
