@@ -1,5 +1,5 @@
 ---
-title: "A DFT Study on Stability and Electronic Structure of AlN Nanotubes (under-review)"
+title: "A DFT Study on Stability and Electronic Structure of AlN Nanotubes "
 authors:
 - Iskender Muz
 - Hasan Kurban
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Alloys and Compounds "
+publication: "Journal of Alloys and Compounds (under-review)"
 publication_short: ""
 
 
