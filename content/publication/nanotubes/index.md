@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2021-01-04T00:00:00Z"
-doi: "https://doi.org/10.1016/j.commatsci.2020.109843"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
