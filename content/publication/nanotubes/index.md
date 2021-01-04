@@ -1,5 +1,5 @@
 ---
-title: "A DFT Study on Stability and Electronic Structure of AlN Nanotubes"
+title: "A DFT Study on Stability and Electronic Structure of AlN Nanotubes (under-review)"
 authors:
 - Iskender Muz
 - Hasan Kurban
