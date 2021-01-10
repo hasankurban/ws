@@ -3,7 +3,7 @@ title: "Rare-class Learning over Mg-Doped ZnO Nanoparticles"
 authors:
 - Hasan Kurban
 - Mustafa Kurban
-date: "2020-12-20T00:00:00Z"
+date: "2021-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advances in Data Analysis and Classification (under-review)"
+publication: "Nano Futures (under-review)"
 publication_short: ""
 
 
