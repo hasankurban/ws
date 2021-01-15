@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nano Futures (under-review)"
+publication: "Chemical Physics (under-review)"
 publication_short: ""
 
 
