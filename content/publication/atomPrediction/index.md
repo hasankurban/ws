@@ -5,7 +5,7 @@ authors:
 - Mustafa Kurban
 - Parichit Sharma
 - Mehmet Dalkilic
-date: "2020-07-24T00:00:00Z"
+date: "2021-01-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Key Engineering Materials(In press)*
-publication_short: In *Key Engineering Materials (ICEIM), Singapore (In press)*
+publication:  *Key Engineering Materials(In press)*
+publication_short:  *Key Engineering Materials (ICEIM), Singapore (In press)*
 
 # Summary. An optional shortened abstract.
 summary:
