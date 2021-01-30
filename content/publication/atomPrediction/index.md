@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Key Engineering Materials(In press)*
-publication_short: In *Key Engineering Materials (ICEIM), Singapore (In press)*
+publication_short: In *Key Engineering Materials (In press)*
 
 # Summary. An optional shortened abstract.
 summary:
