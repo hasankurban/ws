@@ -15,7 +15,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "European Journal of Science and Technology (under-review)"
+publication: "European Journal of Science and Technology (In press)"
 publication_short: ""
 
 
