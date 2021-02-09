@@ -4,6 +4,7 @@ Text Mining"
 authors:
 - Hasan Kurban
 date: "2021-01-03T00:00:00Z"
+doi: "10.31590/ejosat.833199"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -23,7 +24,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: 'https://dergipark.org.tr/en/download/article-file/1421712'
 url_code: 'https://github.com/hasankurban/Hospital-Appointment'
 url_dataset: ''
 url_poster: ''
