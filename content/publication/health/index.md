@@ -3,7 +3,7 @@ title: "Measuring the Proximity of Medical Treatment Areas with
 Text Mining"
 authors:
 - Hasan Kurban
-date: "2021-01-03T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: "10.31590/ejosat.833199"
 
 # Schedule page publish date (NOT publication's date).
