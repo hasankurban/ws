@@ -18,14 +18,9 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Key Engineering Materials(In press)*
-publication_short: In *Key Engineering Materials (In press)*
+publication: In *Key Engineering Materials (In press)*
+publication_short: In **
 
-# Summary. An optional shortened abstract.
-summary:
-
-tags:
-featured: true
 
 links:
 url_pdf: ''
@@ -42,15 +37,14 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 
