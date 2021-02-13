@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Non-Crystalline Solids (In press)"
+publication: "Journal of Non-Crystalline Solids "
 publication_short: ""
 
 
