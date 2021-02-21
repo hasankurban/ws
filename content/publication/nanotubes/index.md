@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2021-01-04T00:00:00Z"
-doi: "https://doi.org/10.1016/j.mtcomm.2021.102118"
+doi: "10.1016/j.mtcomm.2021.102118"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -26,7 +26,7 @@ publication_short: ""
 # - name: ""
 #   url: ""
 url_pdf: 'https://doi.org/10.1016/j.mtcomm.2021.102118'
-url_code: ''https://github.com/hasankurban/Structural-Analysis-NanoParticles'
+url_code: 'https://github.com/hasankurban/Structural-Analysis-NanoParticles'
 url_dataset: ''
 url_poster: ''
 url_project: 

@@ -5,7 +5,7 @@ authors:
 - Sholeh Alaei
 - Mustafa Kurban
 date: "2021-01-06T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jnoncrysol.2021.120726"
+doi: "10.1016/j.jnoncrysol.2021.120726"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
