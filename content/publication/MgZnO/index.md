@@ -5,7 +5,7 @@ authors:
 - Sholeh Alaei
 - Mustafa Kurban
 date: "2021-01-06T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jnoncrysol.2021.120726"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -25,8 +25,8 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
-url_code: ''
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0022309321000855"
+url_code: ''https://github.com/hasankurban/Structural-Analysis-NanoParticles"
 url_dataset: ''
 url_poster: ''
 url_project: 
