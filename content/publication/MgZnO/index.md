@@ -25,8 +25,8 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0022309321000855"
-url_code: ''https://github.com/hasankurban/Structural-Analysis-NanoParticles"
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0022309321000855'
+url_code: 'https://github.com/hasankurban/Structural-Analysis-NanoParticles'
 url_dataset: ''
 url_poster: ''
 url_project: 

@@ -25,8 +25,8 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''https://doi.org/10.1016/j.mtcomm.2021.102118"
-url_code: ''https://github.com/hasankurban/Structural-Analysis-NanoParticles"
+url_pdf: 'https://doi.org/10.1016/j.mtcomm.2021.102118'
+url_code: ''https://github.com/hasankurban/Structural-Analysis-NanoParticles'
 url_dataset: ''
 url_poster: ''
 url_project: 
