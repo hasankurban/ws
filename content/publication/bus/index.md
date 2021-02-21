@@ -8,7 +8,7 @@ authors:
 - Perry Maull
 - Mehmet Dalkilic
 date: "2018-10-01T00:00:00Z"
-doi: "10.1109/BigData.2017.8258215"
+doi: "10.1109/DSAA.2018.00059"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
