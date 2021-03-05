@@ -18,7 +18,7 @@ tags:
 - XGBoost
 - extreme gradient boosting
 - machine learning
-title: Machine Learning Systems for Multi-AtomsStructures:
+title: Machine Learning Systems for Multi-Atoms Structures:
 url_code: ""
 url_pdf: ""
 url_slides: ""
