@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Building Machine Learning Systems for Multi-Atoms Structures 
+summary: CH3NH3PbI3 Perovskite Nanoparticles
 tags:
 - random forest
 - machine learning
