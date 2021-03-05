@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Building Machine Learning Systems for Multi-Atoms Structures: CH3NH3PbI3 Perovskite Nanoparticles
+summary: Building Machine Learning Systems for Multi-Atoms Structures:  CH3NH3PbI3  Perovskite Nanoparticles
 tags:
 - random forest
 - XGBoost
@@ -25,4 +25,4 @@ url_slides: ""
 url_video: ""
 ---
 
-In this study, we built a variety of Machine Learning (ML) systems over 23 different size of CH3NH3PbI3 Perovskite nanoparticles (NPs) to predict the atoms in the CH3NH3PbI3 Perovskite NPs from their geometric locations.
+In this study, we built a variety of Machine Learning (ML) systems over 23 different size of CH3NH3PbI3  Perovskite nanoparticles (NPs) to predict the atoms in the CH3NH3PbI3 Perovskite NPs from their geometric locations.
