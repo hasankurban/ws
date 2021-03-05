@@ -12,18 +12,21 @@ image:
 #slides: 
 
 
-summary: Studying the milky way galaxy using paraheap-k
+summary: Building Machine Learning Systems for Multi-Atoms Structures: CH3NH3PbI3  Perovskite Nanoparticles
+
 tags:
 - Clustering
 - Big Data
 - Expectation Maximization
 - Data Mining
 - Heap
-title: Studying the Milky Way
+title: Machine Learning Systems for Multi-Atoms Structures
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/6898791"
 url_slides: ""
 url_video: ""
 ---
 
-Dramatic increases in the amount and complexity of stellar data must be matched by new or refined algorithms that can help scientists make sense of this data and so better understand the universe. ParaHeap-k is a parallel cluster algorithm for analyzing big data that can potentially prove useful to astronomical research.
+In this study, we built a variety of Machine Learning (ML) systems over 23 different size of CH3NH3PbI3  Perovskite nanoparticles (NPs) to predict the atoms in the CH3NH3PbI3  Perovskite NPs from their geometric locations.
+
+
