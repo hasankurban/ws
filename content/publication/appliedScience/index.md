@@ -2,7 +2,7 @@
 title: "Atom Classification with Machine Learning and Correlations among Physical Properties of ZnO Nanoparticle"
 authors:
 - Hasan Kurban
-date: "2021-02-03T00:00:00Z"
+date: "2021-01-25T00:00:00Z"
 doi: "10.1016/j.chemphys.2021.111143"
 
 # Schedule page publish date (NOT publication's date).
