@@ -4,7 +4,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2021-01-10T00:00:00Z"
-doi: "10.1016/j.chemphys.2021.111159"
+doi: "10.1016/j.jnoncrysol.2021.120726"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
