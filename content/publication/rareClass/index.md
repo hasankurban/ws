@@ -4,7 +4,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2021-01-10T00:00:00Z"
-doi: ""
+doi: "10.1016/j.chemphys.2021.111159"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chemical Physics (In press)"
+publication: "Chemical Physics "
 publication_short: ""
 
 
@@ -24,8 +24,8 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
-url_code: ''
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0301010421000707"
+url_code: 'https://github.com/hasankurban/MgZnO-rare-class-learning'
 url_dataset: ''
 url_poster: ''
 url_project: 
