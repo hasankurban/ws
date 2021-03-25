@@ -6,7 +6,7 @@ authors:
 - Parichit Sharma
 - Mehmet Dalkilic
 date: "2021-01-02T00:00:00Z"
-doi: ""
+doi: "10.4028/www.scientific.net/KEM.880.89"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -23,7 +23,7 @@ publication_short:  ""
 
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.scientific.net/KEM.880.89'
 url_code: 'https://github.com/hasankurban/atom-type-prediction'
 url_dataset: ''
 url_poster: ''
