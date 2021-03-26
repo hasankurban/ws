@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication:  "Key Engineering Materials (In press)"
+publication:  "Key Engineering Materials"
 publication_short:  ""
 
 
