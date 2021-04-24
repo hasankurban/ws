@@ -23,7 +23,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url_pdf: "https://www.sciencedirect.com/science/article/pii/S0927025621002159?dgcid=author'
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0927025621002159?dgcid=author'
 url_code: 'https://github.com/hasankurban/Building-Machine-Learning-Systems-for-Multi-Atoms-Structures'
 url_dataset: ''
 url_poster: ''
