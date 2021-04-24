@@ -4,7 +4,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2021-03-06T00:00:00Z"
-doi: ""
+doi: "10.1016/j.commatsci.2021.110490"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -16,15 +16,15 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computational Materials Science (In press) "
+publication: "Computational Materials Science "
 publication_short: ""
 
 
 
 # links:
 # - name: ""
-#   url: "'
-url_code: ''
+#   url: "https://www.sciencedirect.com/science/article/pii/S0927025621002159?dgcid=author'
+url_code: 'https://github.com/hasankurban/Building-Machine-Learning-Systems-for-Multi-Atoms-Structures'
 url_dataset: ''
 url_poster: ''
 url_project: 
