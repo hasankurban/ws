@@ -25,8 +25,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/6898791
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/6898791'
 url_code: 'http://www.computationalastronomy.com/'
 url_dataset: ''
 url_poster: ''
