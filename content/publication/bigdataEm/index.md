@@ -16,8 +16,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The IEEE International Conference on Data Science and Advanced Analytics*
-publication_short: In *The IEEE International Conference on Data Science and Advanced Analytics (DSAA)*
+publication: In *IEEE International Conference on Big Data*
+publication_short: In *IEEE International Conference on Big Data (Big Data)*
 
 # Summary. An optional shortened abstract.
 summary:
