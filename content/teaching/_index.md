@@ -21,7 +21,7 @@ title: Teaching
     + Topics in Algorithms and Computing Theory *(Graduate, Fall 2014)*
     + Real World Data Science *(Graduate, Summer 2016): Online class sponsored by [Eli Lilly and Company](https://www.lilly.com/)*
     
-    * #### Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
+ * #### Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
     + Artificial Neural Networks *(Undergraduate, Fall 2018, Fall 2019)*
     + Introduction to Computer Engineering *(Undergraduate, Fall 2018, Fall 2019)*
