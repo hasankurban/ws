@@ -6,7 +6,7 @@ layout: docs
 title: Teaching
 ---
 
-* #### Dr. Lecturer, Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
+* #### Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
     + Artificial Neural Networks *(Undergraduate, Fall 2018, Fall 2019)*
     + Introduction to Computer Engineering *(Undergraduate, Fall 2018, Fall 2019)*
@@ -15,7 +15,7 @@ title: Teaching
     + Algorithms and Programming II *(Undergraduate, Spring 2019)*
     + Web and Internet Technologies *(Undergraduate, Spring 2019)*
     
-* #### Visiting Assistant Professor, Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
+* #### Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
     + Applied Machine Learning *(Graduate, Fall 2017)*
     + Online Applied Data Mining *(Graduate, Fall 2017)*
     + Elements of Artificial Intelligence *(Graduate, Spring 2018)*
