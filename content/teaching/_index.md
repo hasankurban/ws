@@ -12,9 +12,8 @@ title: Teaching
     + Online Applied Data Mining *(Graduate, Fall 2017)*
     + Elements of Artificial Intelligence *(Graduate, Spring 2018)*
     + Introduction to Data Analysis and Mining *(Undergraduate, Spring 2018)*
-    + Data Mining *(Graduate, Fall 2016)*
     + Introduction to Artificial Intelligence *(Graduate Spring 2017)*
-    + Data Mining *(Graduate, Fall 2012, Fall 2013, Spring 2015, Spring 2016)*
+    + Data Mining *(Graduate, Fall 2012, Fall 2013, Spring 2015, Fall 2016 Spring 2016)*
     + Machine Learning *(Graduate, Spring 2013)*
     + Data Structures *(Undergraduate/Graduate, Spring 2014)*
     + Seminar in Computer Science: Data Mining *(Undergraduate, Fall 20114, Fall 2015)
