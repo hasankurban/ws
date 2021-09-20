@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: " The R Journal (under-review)"
+publication: " SoftwareX (under-review)"
 publication_short: ""
 
 
