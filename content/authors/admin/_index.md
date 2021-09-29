@@ -6,7 +6,7 @@ title: Hasan Kurban
 superuser: true
 
 # Role/position/tagline
-role: Hasan Kurban, Ph.D.
+role: Assoc. Prof.
 
 # Organizations/Affiliations to show in About widget
 organizations:
