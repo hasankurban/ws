@@ -16,7 +16,7 @@ title: Teaching
     + Data Mining *(Graduate, Fall 2012, Fall 2013, Spring 2015, Fall 2016 Spring 2016)*
     + Machine Learning *(Graduate, Spring 2013)*
     + Data Structures *(Undergraduate/Graduate, Spring 2014)*
-    + Seminar in Computer Science: Data Mining *(Undergraduate, Fall 20114, Fall 2015)*s
+    + Seminar in Computer Science: Data Mining *(Undergraduate, Fall 20114, Fall 2015)*
     + Topics in Algorithms and Computing Theory *(Graduate, Fall 2014)*
     + Real World Data Science *(Graduate, Summer 2016): Online class sponsored by [Eli Lilly and Company](https://www.lilly.com/)*
     
