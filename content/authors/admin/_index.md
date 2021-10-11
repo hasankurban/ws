@@ -3,10 +3,6 @@
 title: Hasan Kurban
 
 
-<div style="text-align: right"><h1>HASAN KURBAN</div>
-<div style="text-align: right">hakurban@iu.edu</div>
-
-
 # Is this the primary user of the site?
 superuser: true
 
