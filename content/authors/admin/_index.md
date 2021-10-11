@@ -90,7 +90,7 @@ email: "hakurban@gmail.com"
 highlight_name: false
 ---
 
-My research and teaching interests include machine learning, data mining, big data, data science and artificial intelligence. During my PhD, I found the opportunity to study machine learning (ML) and data mining (DM) algorithms theoritacally in depth and my doctoral thesis was about an optimization framework designed to improve ML and DM algorithms from a data centric perspective over big data. I have  published various peer-reviewed articles and taught several graduate and undergraduates classes  regarding those disciplines. In my professionel life  I  enjoy building intelligent systems to find data-driven solutions to real-world problems. 
+My research and teaching interests include machine learning, data mining, big data, data science and artificial intelligence. I teoretically work on data-centric ML/AL and build machine learning systems over variaous domains such as material science, chemistry, bioinformatics, to help accelerating scientific discoveries. For example, we use ML to develop longstanding traditional quantum modeling techniques, particularly Density-functional theory (DFT), a computational method developed in 1970s, for modelling quantum mechanics that is among the most popular tools of the material scientists.    
 
 
 
