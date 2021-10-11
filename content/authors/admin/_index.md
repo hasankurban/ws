@@ -90,7 +90,7 @@ email: "hakurban@gmail.com"
 highlight_name: false
 ---
 
-My research and teaching interests include machine learning (ML), data mining, big data, data science and artificial intelligence (AI). I theoretically work on data-centric ML/AL and build MLsystems over various domains such as material science    , chemistry, bioinformatics, to help accelerate scientific discoveries. For example, we use ML to develop long standing traditional quantum modeling techniques, particularly Density-functional theory (DFT), a computational method developed in the 1970s, for modelling quantum mechanics that is among the most popular tools of the material scientists.      
+My research and teaching interests include machine learning (ML), data mining, big data, data science and artificial intelligence (AI). I theoretically work on data-centric ML/AL and also build MLsystems over various domains such as material science    , chemistry, bioinformatics, to help accelerate scientific discoveries. For example, we use ML to develop long standing traditional quantum modeling techniques, particularly Density-functional theory (DFT), a computational method developed in the 1970s, for modelling quantum mechanics that is among the most popular tools of the material scientists.      
 
 
 
