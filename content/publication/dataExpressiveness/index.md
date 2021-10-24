@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neurips Data-Centric AI*
-publication_short: In *NeurIPS Data-Centric AI, DCAI'21 (under-review)*
+publication_short: In *NeurIPS Data-Centric AI, DCAI'21 (in-press)*
 
 # Summary. An optional shortened abstract.
 summary:
