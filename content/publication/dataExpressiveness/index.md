@@ -1,8 +1,8 @@
 ---
 title: "Data Expressiveness and Its Use in Data-centric AI"
 authors:
-- Parichit Sharma
 - Hasan Kurban
+- Parichit Sharma
 - Mehmet Dalkilic
 date: "2021-09-30T00:00:00Z"
 doi: ""
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neurips Data-Centric AI*
-publication_short: In *NeurIPS Data-Centric AI, DCAI'21 (in-press)*
+publication_short: In *NeurIPS Data-Centric AI, DCAI'21 (accepted)*
 
 # Summary. An optional shortened abstract.
 summary:
