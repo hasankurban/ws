@@ -7,11 +7,11 @@ title: Hasan Kurban
 superuser: true
 
 # Role/position/tagline
-role: Assoc. Prof.
+role: Computer & Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Computer & Data Scientist
+- name: 
 
 # Short bio (displayed in user profile at end of posts)
 bio:  I'm a computer scientist & machine learning researcher who loves building intelligent systems to find data-driven solutions to real-world problems. 
