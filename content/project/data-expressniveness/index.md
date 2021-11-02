@@ -20,7 +20,7 @@ tags:
 - Data Mining
 - Heap
 title: Data-centric AI
-url_code: ""
+url_code: "https://github.com/hasankurban/EM-DC-NEURIPS_2021"
 url_pdf: ""
 url_slides: ""
 url_video: ""
