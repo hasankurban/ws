@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neurips Data-Centric AI*
-publication_short: In *NeurIPS Data-Centric AI, DCAI'21 (accepted)*
+publication_short: In *NeurIPS Data-Centric AI, DCAI'21*
 
 # Summary. An optional shortened abstract.
 summary:
@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 
+url_pdf: 'https://datacentricai.org/papers/145_CameraReady_Poster_DCAI_DataExpressiveness_2021.pdf'
 url_code: 'https://github.com/hasankurban/EM-DC-NEURIPS_2021'
 url_dataset: ''
 url_poster: ''
