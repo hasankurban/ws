@@ -1,0 +1,13 @@
+@article{SHARMA2022100944,
+title = {DCEM: An R package for clustering big data via data-centric modification of Expectation Maximization},
+journal = {SoftwareX},
+volume = {17},
+pages = {100944},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2021.100944},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711021001771},
+author = {Parichit Sharma and Hasan Kurban and Mehmet Dalkilic},
+keywords = {Data centric machine learning, Big data, Unsupervised clustering, Expectation Maximization, Open source software},
+abstract = {Clustering is intractable, so techniques exist to give a best approximation. Expectation Maximization (EM), initially used to impute missing data, is among the most popular. Parameters of a fixed number of probability distributions (PDF) together with the probability of a datum belonging to each PDF are iteratively computed. EM does not scale with data size, and this has hampered its current use. Using a data-centric approach, we insert hierarchical structures within the algorithm to separate high expressive data (HE) from low expressive data (LE): the former greatly affects the objective function at some iteration i, while LE does not. By alternating using either HE or HE+LE, we significantly reduce run-time for EM. We call this new, data-centric EM, EM*. We have designed and developed an R package called DCEM (Data Clustering with Expectation Maximization) to emphasize that data is driving the algorithm. DCEM is superior to EM as we vary size, dimensions, and separability, independent of the scientific domain. DCEM is modular and can be used as either a stand-alone program or a pluggable component. DCEM includes our implementation of the original EM as well. To the best of our knowledge, there is no open source software that specifically focuses on improving EM clustering without explicit parallelization, modified seeding, or data reduction. DCEM is freely accessible on CRAN (Comprehensive R Archive Network).}
+}

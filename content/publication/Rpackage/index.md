@@ -1,10 +1,10 @@
 ---
-title: "Data Clustering with EM (DCEM) for Big Data, an R Package"
+title: "DCEM: An R package for clustering big data via data-centric modification of Expectation Maximization"
 authors:
 - Parichit Sharma
 - Hasan Kurban
 - Mehmet M Dalkilic
-date: "2021-04-24T00:00:00Z"
+date: "2021-12-31T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -16,15 +16,15 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: " SoftwareX (in-press)"
+publication: " SoftwareX"
 publication_short: ""
 
 
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 
+#   url: "https://www.sciencedirect.com/science/article/pii/S2352711021001771"
+url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S2352711021001771?token=B6B978802D630D681B96D8F61BE9B101ED03F2A017D1F8E53BE24CFE690110DCD62841578CA2543883691D5595E36FF0&originRegion=us-east-1&originCreation=20211231161228'
 url_code: 'https://github.com/hasankurban/DCEM'
 url_dataset: ''
 url_poster: ''
