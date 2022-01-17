@@ -1,7 +1,7 @@
 ---
-title: "Using data to build a better EM: EM* for big data"
+title: "Regeneration of Lithium-ion Battery Impedance using a Novel Machine Learning Framework and Minimal Empirical Data"
 authors:
-- SecUK Temiz
+- Selcuk Temiz
 - Hasan Kurban
 - Salim Erol
 - Mehmet M. Dalkilic
