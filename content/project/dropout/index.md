@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: ccImpute an accurate and scalable consensus clustering based algorithm to impute dropout events in the single-cell RNA-seq data
+summary: ccImpute--an accurate and scalable consensus clustering based algorithm to impute dropout events in the single-cell RNA-seq data
 tags:
 - scRNA
 - Single-cell
