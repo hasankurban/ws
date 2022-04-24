@@ -8,11 +8,11 @@ title: Teaching
 
     
 * #### Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
-    + Applied Algorithms *(Graduate)*
+    + Applied Algorithms *(Graduate, Fall 2021)*
     + Applied Machine Learning *(Graduate, Fall 2017)*
     + Online Applied Data Mining *(Graduate, Fall 2017)*
     + Elements of Artificial Intelligence *(Graduate, Spring 2018)*
-    + Introduction to Data Analysis and Mining *(Undergraduate, Spring 2018)*
+    + Introduction to Data Analysis and Mining *(Undergraduate, Spring 2018, Spring 2022)*
     + Introduction to Artificial Intelligence *(Graduate Spring 2017)*
     + Data Mining *(Graduate, Fall 2012, Fall 2013, Spring 2015, Fall 2016 Spring 2016)*
     + Machine Learning *(Graduate, Spring 2013)*
