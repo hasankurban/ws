@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Energy (under-review)"
+publication: "Journal of Power Sources (under-review)"
 publication_short: ""
 
 
