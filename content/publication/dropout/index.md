@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BMC Bioinformatics (under-review)"
+publication: "BMC Bioinformatics (accepted)"
 publication_short: ""
 
 

@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Energy Storage (under-review)"
+publication: "Journal of Energy Storage (accepted)"
 publication_short: ""
 
 
