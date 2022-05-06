@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data
+summary: An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy--Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data
 tags:
 - Materials Science
 - Machine Learning 
