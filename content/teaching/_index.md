@@ -8,6 +8,7 @@ title: Teaching
 
     
 * #### Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
+    + Discrete Structures for Computer Science *(Undergraduate, Summer 2022)*
     + Applied Algorithms *(Graduate, Fall 2021)*
     + Applied Machine Learning *(Graduate, Fall 2017)*
     + Online Applied Data Mining *(Graduate, Fall 2017)*
