@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Applying Data-Centric AI to Improve a Single-cell RNA-seq Pipeline:
+summary: Applying Data-Centric AI to Improve a Single-cell RNA-seq Pipeline
 - Data-Centric AI
 - Data-Expressiveness 
 - Single cell RNASeq
