@@ -1,8 +1,7 @@
 ---
-title: "Applying Data-Centric AI to Improve a Single-cell RNA-seq Pipeline"
+title: "k-NN-p: A paired index structure for k-Nearest Neighbor Search Algorithms over High Dimensional Data and Large Data Sets"
 authors:
-- Parichit Sharma,
-- Marcin Malec,
+- Madhavan Kalkunte Ramachandra,
 - Hasan Kurban,
 - M. Oguzhan Kulekci,
 - Mehmet Dalkilic
