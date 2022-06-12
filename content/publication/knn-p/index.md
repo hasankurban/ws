@@ -1,9 +1,9 @@
 ---
 title: "k-NN-p: A paired index structure for k-Nearest Neighbor Search Algorithms over High Dimensional Data and Large Data Sets"
 authors:
-- Madhavan Kalkunte Ramachandra,
-- Hasan Kurban,
-- M. Oguzhan Kulekci,
+- Madhavan Kalkunte Ramachandra
+- Hasan Kurban
+- M. Oguzhan Kulekci
 - Mehmet Dalkilic
 date: "2022-06-010T00:00:00Z"
 doi: ""
