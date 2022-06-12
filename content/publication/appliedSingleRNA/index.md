@@ -3,7 +3,7 @@ title: "Applying Data-Centric AI to Improve a Single-cell RNA-seq Pipeline"
 authors:
 - Parichit Sharma
 - Marcin Malec
-- Hasan Kurban,
+- Hasan Kurban
 - M. Oguzhan Kulekci
 - Mehmet Dalkilic
 date: "2022-06-10T00:00:00Z"
