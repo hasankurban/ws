@@ -6,7 +6,7 @@ authors:
 - Hasan Kurban,
 - M. Oguzhan Kulekci
 - Mehmet Dalkilic
-date: "2022-06-010T00:00:00Z"
+date: "2022-06-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
