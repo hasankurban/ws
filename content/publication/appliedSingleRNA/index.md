@@ -1,10 +1,10 @@
 ---
 title: "Applying Data-Centric AI to Improve a Single-cell RNA-seq Pipeline"
 authors:
-- Parichit Sharma,
-- Marcin Malec,
+- Parichit Sharma
+- Marcin Malec
 - Hasan Kurban,
-- M. Oguzhan Kulekci,
+- M. Oguzhan Kulekci
 - Mehmet Dalkilic
 date: "2022-06-010T00:00:00Z"
 doi: ""
@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
