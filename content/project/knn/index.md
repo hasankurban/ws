@@ -12,9 +12,9 @@ image:
 #slides: 
 
 
-summary: A paired index structure for k-Nearest
-Neighbor Search Algorithms over High Dimensional Data & Large Data Sets (k-NN-p)
+summary: A paired index structure for k-Nearest Neighbor Search Algorithms
 tags:
+- B+ Trees
 - High Dimensional Data 
 - Paired Indexing
 - Big Data Mining
