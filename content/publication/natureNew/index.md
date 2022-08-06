@@ -1,5 +1,5 @@
 ---
-title: "An Efficient and Novel Approach for Predicting Kohn-Sham Total Energy: Bootstrapping a Cooperative Model Framework with Minimal Viable Theoretical Data"
+title: "Rapidly Predicting Kohn-Sham Total Energy Using Data-centric AI"
 authors:
 - Hasan Kurban
 - Mustafa Kurban
