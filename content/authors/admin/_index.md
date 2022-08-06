@@ -18,7 +18,7 @@ bio:  I'm a computer scientist & machine learning researcher who loves building 
 
 # Interests to show in About widget
 interests:
-- Machine Learning, AI, Data Science, Data Mining
+- Data Science,Data Mining, Machine Learning, Artificial Intelligence,
 
 # Education to show in About widget
 education:
