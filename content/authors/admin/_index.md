@@ -18,15 +18,7 @@ bio:  I'm a computer scientist & machine learning researcher who loves building 
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Data Mining
-- Data Science
-- Data Analytics
-- Artificial Intelligence
-- Computer Science
-- Big Data
-- Computational Science
-- Teaching and Learning
+- Machine Learning, Data Mining, Data Science, Artificial Intelligence
 
 # Education to show in About widget
 education:
@@ -34,18 +26,7 @@ education:
   - course: Ph.D., Computer Science
     institution: Indiana University Bloomington, IN, USA
     year: Sep 2017
-  - course: M.Sc., Computer Science
-    institution: Indiana University Bloomington, IN, USA
-    year: May 2012
-  - course: EAP
-    institution: University of Connecticut, CT, USA
-    year: July 2010
-  - course: EAP
-    institution: Marmara University, Istanbul, Turkey
-    year: June 2009 
-  - course: B.Sc., Mathematics
-    institution: Inonu University, Malatya, Turkey
-    year: June 2008 
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
