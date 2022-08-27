@@ -25,7 +25,7 @@ publication_short: ""
 # links:
 # - name: "https://hasan.shinyapps.io/app_1/"
 #   url: "https://www.nature.com/articles/s41598-022-18366-7"
-url_pdf:  ' https://www.nature.com/articles/s41598-022-18366-7.pdf'
+url_pdf: 'https://www.nature.com/articles/s41598-022-18366-7.pdf'
 url_code: 'https://github.com/hasankurban/Kohn-Sham-Total-Energy-Prediction'
 url_dataset: 'https://github.com/hasankurban/Kohn-Sham-Total-Energy-Prediction/tree/master/Training%26Testing'
 url_poster: ''
