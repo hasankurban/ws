@@ -1,5 +1,5 @@
 ---
-title: "ccImpute-an accurate and scalable consensus clustering based algorithm to impute dropout events in the single-cell RNA-seq data"
+title: "ccImpute--an accurate and scalable consensus clustering based algorithm to impute dropout events in the single-cell RNA-seq data"
 authors:
 - Marcin Malec
 - Hasan Kurban
@@ -25,7 +25,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf:  'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-022-04814-8.pdf '
+url_pdf:  'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-022-04814-8.pdf'
 url_code: 'https://github.com/hasankurban/ccImpute'
 url_dataset: 'https://github.com/khazum/ccImputeDatasets'
 url_poster: ''
