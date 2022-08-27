@@ -5,7 +5,7 @@ authors:
 - Mustafa Kurban
 - Mehmet M. Dalkilic
 date: "2022-08-24T00:00:00Z"
-doi: ""
+doi: "10.1038/s41598-022-18366-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -23,7 +23,7 @@ publication_short: ""
 
 
 # links:
-# - name: "https://hasan.shinyapps.io/app_1/"
+#  url_web: "https://hasan.shinyapps.io/app_1/"
 #   url: "https://www.nature.com/articles/s41598-022-18366-7"
 url_pdf: 'https://www.nature.com/articles/s41598-022-18366-7.pdf'
 url_code: 'https://github.com/hasankurban/Kohn-Sham-Total-Energy-Prediction'
