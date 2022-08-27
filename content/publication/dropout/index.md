@@ -1,12 +1,11 @@
 ---
-title: "Regeneration of Lithium-ion Battery Impedance using a Novel Machine Learning Framework and Minimal Empirical Data"
+title: "ccImpute--an accurate and scalable consensus clustering based algorithm to impute dropout events in the single-cell RNA-seq data"
 authors:
-- Selcuk Temiz
+- Marcin Malec
 - Hasan Kurban
-- Salim Erol
 - Mehmet M. Dalkilic
-date: "2022-08-20T00:00:00Z"
-doi: "10.1016/j.est.2022.105022"
+date: "2022-08-14T00:00:00Z"
+doi: "10.1186/s12859-022-04814-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,16 +17,17 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Energy Storage"
+publication: "BMC Bioinformatics"
 publication_short: ""
 
 
 
 # links:
 # - name: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X22010246'
-url_code: 'https://github.com/hasankurban/Machine-Learning-Based-Regeneration-of-Li-ion-Battery-Impedance'
-url_dataset: 'https://github.com/hasankurban/Machine-Learning-Based-Regeneration-of-Li-ion-Battery-Impedance'
+#   url: ""
+url_pdf:  'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-022-04814-8.pdf'
+url_code: 'https://github.com/hasankurban/ccImpute'
+url_dataset: 'https://github.com/khazum/ccImputeDatasets'
 url_poster: ''
 url_project: 
 url_slides: ''
