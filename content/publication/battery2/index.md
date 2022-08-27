@@ -6,7 +6,7 @@ authors:
 - Salim Erol
 - Mehmet M. Dalkilic
 date: "2022-08-25T00:00:00Z"
-doi: ""
+doi: "10.1016/j.est.2022.105022"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
