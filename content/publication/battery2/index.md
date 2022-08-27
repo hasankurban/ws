@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - Salim Erol
 - Mehmet M. Dalkilic
-date: "2022-01-16T00:00:00Z"
+date: "2022-08-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,10 +25,9 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X22010246'
+url_code: 'https://github.com/hasankurban/Machine-Learning-Based-Regeneration-of-Li-ion-Battery-Impedance'
+url_dataset: 'https://github.com/hasankurban/Machine-Learning-Based-Regeneration-of-Li-ion-Battery-Impedance'
 url_poster: ''
 url_project: 
 url_slides: ''

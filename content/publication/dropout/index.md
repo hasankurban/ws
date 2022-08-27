@@ -4,7 +4,7 @@ authors:
 - Marcin Malec
 - Hasan Kurban
 - Mehmet M. Dalkilic
-date: "2022-01-31T00:00:00Z"
+date: "2022-08-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BMC Bioinformatics (accepted)"
+publication: "BMC Bioinformatics"
 publication_short: ""
 
 
@@ -25,9 +25,9 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
+url_pdf:  'https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-022-04814-8.pdf '
+url_code: 'https://github.com/hasankurban/ccImpute'
+url_dataset: 'https://github.com/khazum/ccImputeDatasets'
 url_poster: ''
 url_project: 
 url_slides: ''
