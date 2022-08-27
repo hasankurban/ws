@@ -4,7 +4,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 - Mehmet M. Dalkilic
-date: "2022-05-04T00:00:00Z"
+date: "2022-08-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,17 +17,17 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Scientific Reports (accepted)"
+publication: "Nature Scientific Reports"
 publication_short: ""
 
 
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
+# - name: "https://hasan.shinyapps.io/app_1/"
+#   url: "https://www.nature.com/articles/s41598-022-18366-7"
+url_pdf:  ' https://www.nature.com/articles/s41598-022-18366-7.pdf'
+url_code: 'https://github.com/hasankurban/Kohn-Sham-Total-Energy-Prediction'
+url_dataset: 'https://github.com/hasankurban/Kohn-Sham-Total-Energy-Prediction/tree/master/Training%26Testing'
 url_poster: ''
 url_project: 
 url_slides: ''
