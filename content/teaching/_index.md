@@ -6,7 +6,7 @@ layout: docs
 title: Teaching 
 ---
 
- 
+ * #### 
     + Discrete Structures for Computer Science *(Undergraduate, Summer 2022, Fall 2022)*
     + Applied Algorithms *(Graduate, Fall 2021)*
     + Applied Machine Learning *(Graduate, Fall 2017)*
