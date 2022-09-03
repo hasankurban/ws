@@ -5,10 +5,7 @@ header:
 layout: docs
 title: Teaching
 ---
-
-    
-* #### Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
-    + Discrete Structures for Computer Science *(Undergraduate, Summer 2022)*
+    + Discrete Structures for Computer Science *(Undergraduate, Summer 2022, Fall 2022)*
     + Applied Algorithms *(Graduate, Fall 2021)*
     + Applied Machine Learning *(Graduate, Fall 2017)*
     + Online Applied Data Mining *(Graduate, Fall 2017)*
@@ -21,8 +18,6 @@ title: Teaching
     + Seminar in Computer Science: Data Mining *(Undergraduate, Fall 20114, Fall 2015)*
     + Topics in Algorithms and Computing Theory *(Graduate, Fall 2014)*
     + Real World Data Science *(Graduate, Summer 2016): Online class sponsored by [Eli Lilly and Company](https://www.lilly.com/)*
-    
- * #### Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
     + Artificial Neural Networks *(Undergraduate, Fall 2018, Fall 2019)*
     + Introduction to Computer Engineering *(Undergraduate, Fall 2018, Fall 2019)*
