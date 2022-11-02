@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - Salim Erol
 - Mehmet M. Dalkilic
-date: "2022-11-01sT00:00:00Z"
+date: "2022-11-01T00:00:00Z"
 doi: "10.1016/j.est.2022.105022"
 
 # Schedule page publish date (NOT publication's date).
