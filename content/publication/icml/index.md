@@ -7,7 +7,7 @@ authors:
 - M. Oguzhan Kulekci
 - Mehmet Dalkilic
 date: "2023-01-30T00:00:00Z"
-doi: "10.1109/DSAA.2014.7058103"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Fortieth International Conference on Machine Learning *
-publication_short: In *Fortieth International Conference on Machine Learning  (ICML) (underr-review)*
+publication_short: In *Fortieth International Conference on Machine Learning  (ICML) (under-review)*
 
 
 
@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://ieeexplore.ieee.org/document/7058103
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
