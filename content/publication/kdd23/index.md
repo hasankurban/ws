@@ -1,5 +1,5 @@
 ---
-title: "tiknn*:  Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data and Large Data Sets"
+title: "tiknn:  Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data and Large Data Sets"
 authors:
 - Madhavan Kalkunte Ramachandra
 - Hasan Kurban
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
-publication_short: In * 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)  (under-review)*
+publication_short: In *29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)  (under-review)*
 
 
 
