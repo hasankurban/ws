@@ -1,10 +1,6 @@
 ---
 title: Publications
 
-<style>s
-body {
-text-align: justify}
-</style>
 
 # View.
 #   1 = List
