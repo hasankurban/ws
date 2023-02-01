@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+<style>s
+body {
+text-align: justify}
+</style>
