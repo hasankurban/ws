@@ -18,7 +18,7 @@ bio:  I'm a computer scientist & machine learning researcher who loves building 
 
 # Interests to show in About widget
 interests:
-- Data Science, Data Mining, Machine Learning, Big Data
+- Data Science, Data Mining, Machine Learning, Big Data, Applied AI (Materials Science)
 
 # Education to show in About widget
 education:
@@ -72,5 +72,4 @@ email: "hakurban@gmail.com"
 highlight_name: false
 ---
 
-
-My research and teaching interests include machine learning (ML), data mining, big data, data science and artificial intelligence (AI). I theoretically work on data-centric ML/AL and also build ML systems over various domains such as material science    , chemistry, bioinformatics, to help accelerate scientific discoveries. For example, we use ML to develop long standing traditional quantum modeling techniques, particularly Density-functional theory (DFT), a computational method developed in the 1970s, for modelling quantum mechanics that is among the most popular tools of the material scientists.        
+I am  a Visiting Associate Professor in the Computer Science Department and Data Science Program at Indiana University, Bloomington, where I received my  Ph.D. in Computer Science with a minor in Statistics under the supervision of Dr. M. M. Dalkilic in September 2017.  My research focuses on AI and its applications.  In particular,  my latest research is in the new area of data-centric AI (DCAI): developing improved tools and applications primarily in materials science: nanoparticles and Lithium-ion batteries.  Our most recent work, ?Rapidly predicting Kohn?Sham total energy using data-centric AI,?  is now available in Nature Scientific Reports.  Our  research on improving the venerable expectation-maximization called EM*,  which has received an honorable mention paper award from IEEE International Conference on Data Science and Advanced Analytics (DSAA) in Montreal, Canada and the best poster award from IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) Austin, Texas,  is available as a CRAN R package called DCEM. 
