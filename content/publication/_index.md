@@ -1,6 +1,11 @@
 ---
 title: Publications
 
+<style>s
+body {
+text-align: justify}
+</style>
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -14,7 +19,3 @@ header:
   image: ""
 ---
 
-<style>s
-body {
-text-align: justify}
-</style>
