@@ -65,7 +65,7 @@ subtitle = "FEATURED PUBLICATIONS"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view =1
+  view =5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
