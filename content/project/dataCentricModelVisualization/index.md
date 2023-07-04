@@ -19,7 +19,7 @@ tags:
 - Model visualization
 - Data-centric AI
 
-title: An AutoML Regression Service for Data Analytics and Novel Data-centric Visualizations
+title: AutoML Regression Service for Data Analytics and Novel Data-centric Visualizations
 url_code: ""
 url_pdf: ""
 url_slides: ""
