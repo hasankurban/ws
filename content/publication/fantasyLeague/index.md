@@ -1,14 +1,13 @@
 ---
-title: "Efficient Feature Engineering Over Unstructured Data for Use with Traditional AI Models"
+title: "Making Fantasy Leagues More Real: Adding Team Chemistry"
 authors:
-- Mert Onur Cakiroglu
-- Hasan Kurban
+- Ganesh Arkanath
+- Nishad Gupta
 - Parichit Sharma,
-- Elham Khorasani Buxton
-- M. Oguzhan Kulekci
-- Maryam Raeeszadeh-Sarmazdeh
-- Haixu Tang and Mehmet Dalkilic
-date: "2023-04-30T00:00:00Z"
+- Madhavan K R
+- Hasan Kurban
+-  Elham Khorasani Buxton
+date: "2023-05-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +20,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *NeurIPS*
-publication_short: In *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS), New Orleans, LA, USA,  (under-review)*
+publication: In *ECML/PKDD*
+publication_short: In *ECML/PKDD: 10th Workshop on Machine Learning and Data Mining for Sports Analytics}, Turin, Italy (under-review)*
 
 
 
