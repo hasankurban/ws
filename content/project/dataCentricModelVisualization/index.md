@@ -14,11 +14,10 @@ image:
 
 summary: AReS--An AutoML Regression Service for Data Analytics and Novel Data-centric Visualizations
 tags:
-- B+ Trees
-- High Dimensional Data 
-- Paired Indexing
-- Big Data Mining
-- Nearest Neighbors
+- AutoML
+- Data Analytics
+- Model visualization
+- Data-centric AI
 
 title: An AutoML Regression Service for Data Analytics and Novel Data-centric Visualizations
 url_code: ""
