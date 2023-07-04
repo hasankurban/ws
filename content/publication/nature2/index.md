@@ -5,7 +5,7 @@ authors:
 - Parichit Sharma,
 - Salim Erol
 - Selcuk Temiz
--  Mehmet M. Dalkilic.
+- Mehmet M. Dalkilic
 date: "2023-06-27T00:00:00Z"
 doi: ""
 
