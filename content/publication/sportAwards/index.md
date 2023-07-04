@@ -6,10 +6,10 @@ authors:
 - Jacob Hendricks
 - Jared Andrew Schlak
 - Parichit Sharma
--  Madhavan K R
+- Madhavan K R
 - Hasan Kurban
 - Mehmet M. Dalkilic
-date: "2023-05-31	T00:00:00Z"
+date: "2023-05-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
