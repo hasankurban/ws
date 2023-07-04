@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Are They What They Claim: A Comprehensive Study of Ordinary Linear Regression Among the Top Machine Learning Libraries in Python
+summary: Are They What They Claim--A Comprehensive Study of Ordinary Linear Regression Among the Top Machine Learning Libraries in Python
 tags:
 - B+ Trees
 - High Dimensional Data 
@@ -20,7 +20,7 @@ tags:
 - Big Data Mining
 - Nearest Neighbors
 
-title: A Comprehensive Study of Ordinary Linear Regression in Pythonn
+title: A Comprehensive Study of Ordinary Linear Regression in Python
 url_code: ""
 url_pdf: ""
 url_slides: ""
