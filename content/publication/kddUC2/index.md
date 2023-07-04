@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *KDD*
-publication_short: In *1KDD Undergraduate Consortium (KDD-UC)}, Long Beach, CA, USA (accepted)*
+publication_short: In *1KDD Undergraduate Consortium (KDD-UC), Long Beach, CA, USA (accepted)*
 
 
 
