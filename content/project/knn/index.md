@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: A paired index structure for k-Nearest Neighbor Search Algorithms
+summary: tik-nn--Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data & Large Data Sets
 tags:
 - B+ Trees
 - High Dimensional Data 
@@ -20,7 +20,7 @@ tags:
 - Big Data Mining
 - Nearest Neighbors
 
-title: A paired index structure for k-Nearest Neighbor Search Algorithms
+title: Telescope Indexing for k-Nearest Neighbor Search Algorithms 
 url_code: ""
 url_pdf: ""
 url_slides: ""
