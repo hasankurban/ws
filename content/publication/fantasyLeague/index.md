@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ECML/PKDD*
-publication_short: In *ECML/PKDD, 10th Workshop on Machine Learning and Data Mining for Sports Analytics}, Turin, Italy (under-review)*
+publication_short: In *ECML/PKDD, 10th Workshop on Machine Learning and Data Mining for Sports Analytics, Turin, Italy (under-review)*
 
 
 

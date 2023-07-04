@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *DSAA*
-publication_short: In *10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)}, Thessaloniki, Greece, (under-review)*
+publication_short: In *10th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Thessaloniki, Greece, (under-review)*
 
 
 
