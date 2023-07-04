@@ -1,11 +1,11 @@
 ---
 title: "tiknn:  Telescope Indexing for $k$-Nearest Neighbor Search Algorithms over High Dimensional Data & Large Data Sets"
 authors:
-- Madhavan Kalkunte Ramachandra,
+- Madhavan Kalkunte Ramachandra
 - Hasan Kurban
 - M. Oguzhan Kulekci
 - Mehmet M. Dalkilic
-date: "2023-04-29	T00:00:00Z"
+date: "2023-04-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
