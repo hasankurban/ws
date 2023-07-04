@@ -1,10 +1,10 @@
 ---
-title: "AReS: An AutoML Regression Service for Data Analytics and Novel Data-centric Visualizations"
+title: "Are     They What They Claim: A Comprehensive Study of Ordinary Linear Regression Among the Top Machine Learning Libraries in Python"
 authors:
-- Josh Elms
 - Sam Johnson
+- Josh Elms
 - Madhavan K R
--  Keerthana SugasiX
+-  Keerthana Sugasi
 -  Parichit Sharma
 -  Hasan Kurban
 -  Mehmet M. Dalkilic
