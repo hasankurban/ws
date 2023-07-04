@@ -20,7 +20,7 @@ tags:
 - feature-engineering
 -  scaling-statistics
 
-title: More Real Fantasy Leagues
+title: 	More Real Fantasy Leagues
 url_code: ""
 url_pdf: ""
 url_slides: ""
