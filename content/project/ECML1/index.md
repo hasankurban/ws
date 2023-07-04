@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Making Fantasy Leagues More Real: Adding Team Chemistry
+summary: Making Fantasy Leagues More Real by Adding Team Chemistry
 tags:
 - data-mining 
 - nba-fantasy-league
