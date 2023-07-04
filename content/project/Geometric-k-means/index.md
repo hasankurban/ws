@@ -2,8 +2,8 @@
 date: "2023-06-11T00:00:00Z"
 external_link: ""
 image:
-  caption: 
-  focal_point: 
+caption: 
+focal_point: 
 #links:
 #- icon: 
 #  icon_pack: 
@@ -17,7 +17,7 @@ tags:
 - Core-Set Selection
 - Data-Centric AI
 - Single-cell RNASeq
-- Data Mining,
+- Data Mining			
 - Big Data
 - Ball-k-means
 - k-means Clustering
