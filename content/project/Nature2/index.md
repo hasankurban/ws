@@ -1,5 +1,5 @@
 ---
-date: "2023-06-03T00:00:00Z"
+date: "2023-06-30T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -19,7 +19,7 @@ tags:
 - Model visualization
 - Data-centric AI
 
-title: Comprehensive Regression for Impedance Spectroscopy Prediction over ELF Regions using AI
+title: Comprehensive Regression for Impedance Spectroscopy Prediction
 url_code: ""
 url_pdf: ""
 url_slides: ""
