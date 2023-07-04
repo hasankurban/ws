@@ -1,5 +1,5 @@
 ---
-date: "2022-06-10T00:00:00Z"
+date: "2023-06-09T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -26,7 +26,5 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Existing k-Nearest-Neighbors algorithms become
-overwhelmed when presented with large data. While space partitioning data structures such as k-d tree and ball-tree improve the performance in a larger data set, they suffer when the data is high dimensional. We observe that space partitioning becomes ineffective in high-dimensional spaces and explores most of the
-search space to find the nearest neighbors. Our strategy is to partition the data into small clusters of points that are similarly distanced from a reference point in a B+tree data structure that is easy to parallelize and in a way that narrows down the search of k-Nearest-Neighbors for a query to a few clusters.
-Further, we establish that any indexing applicable to the entire data set can be extended to each cluster, enabling even faster query time at the node level. We then present our algorithm and its theoretical complexities and show that our approach outperforms the naive, k-d tree, ball-tree based k-NN and MRPT index-based approximate k-NN search in high dimensional data. Finally, we conclude with experimental results that illustrate the performance improvements outlined in our approach.
+When k-Nearest-Neighbors (k-NN) was conceived more than 70 years ago, computation, as we use it now, would be hardly recognizable. Since then, technology has improved by orders of magnitude, including unprecedented connectivity. However, k-NN has remained virtually unchanged, exposing its shortcomings for today's needs: becoming overwhelmed when presented with large, high-dimensional data. Although space partitioning data structures, especially k-d trees and ball-trees, have improved performance in larger data, they remain inadequate when data is also high-dimensional. Experiments confirm that space partitioning becomes ineffective in high-dimensional data because most of the search space is explored needlessly. Our strategy is to partition the data into small groups of points similarly distanced from a reference point in B+ tree data structure and use this data structure to limit the search space of a k-NN query.
+Further, we establish that the limited search space chosen by the B+ tree structure can be effectively explored by any indexing techniques applicable to the entire data. We then present our algorithm k-NN with partitioning (tik-NN), including computational analysis and experiments. Our detailed evaluation demonstrates significant speedup achieved by tik-NN over the naive, k-d tree, ball-tree based k-NN and other the state-of-the-art approximate k-NN search approaches in high dimensional data.
