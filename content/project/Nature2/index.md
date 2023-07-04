@@ -19,7 +19,7 @@ tags:
 - Model visualization
 - Data-centric AI
 
-title: Comprehensive Regression for Impedance Spectroscopy Prediction
+title: Comprehensive Regression for Impedance Spectroscopy
 url_code: ""
 url_pdf: ""
 url_slides: ""
