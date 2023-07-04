@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Knowledge and Data Engineering (under-rerview)"
+publication: "IEEE Transactions on Knowledge and Data Engineering (under-review)"
 publication_short: ""
 
 
