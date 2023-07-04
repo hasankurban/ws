@@ -12,7 +12,7 @@ focal_point:
 #slides: 
 
 
-summary: Geometric-k-means
+summary: Geometric-k-means: 	A Novel, Exact, Unbounded Distance Calculation Reducing k-means
 tags:
 - Core-Set Selection
 - Data-Centric AI
@@ -22,7 +22,7 @@ tags:
 - Ball-k-means
 - k-means Clustering
 
-title: Geometric-k-means; A Novel, Exact, Unbounded Distance Calculation Reducing k-means
+title: Geometric-k-means
 url_code: ""
 url_pdf: ""
 url_slides: ""
