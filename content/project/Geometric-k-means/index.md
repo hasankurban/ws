@@ -12,7 +12,7 @@ focal_point:
 #slides: 
 
 
-summary: Geometric-k-means: 	A Novel, Exact, Unbounded Distance Calculation Reducing k-means
+summary: Geometric-k-means--A Novel, Exact, Unbounded Distance Calculation Reducing k-means
 tags:
 - Core-Set Selection
 - Data-Centric AI
