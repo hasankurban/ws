@@ -20,7 +20,7 @@ tags:
 - feature-engineering
 -  scaling-statistics
 
-title: Making Fantasy Leagues More Real
+title: More Real Fantasy Leagues
 url_code: ""
 url_pdf: ""
 url_slides: ""
