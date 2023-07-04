@@ -1,7 +1,7 @@
 ---
 title: "Are Sports Awards About Sports? Using AI to Find the Answer"
 authors:
-- Anshumaan Shankar,
+- Anshumaan Shankar
 - Gowtham Veerabadran Rajasekaran
 - Jacob Hendricks
 - Jared Andrew Schlak
