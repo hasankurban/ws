@@ -11,6 +11,8 @@ body {
 text-align: justify}
 </style>
 
+ * Computer Programming and Algorithms (Undergraduate), Fall 2023.
+ * Introduction to Digital Systems Design (Undergraduate), Fall 2023.
  * Introduction to Programming and Computers *(Undergraduate, Spring 2023)*
  * Discrete Structures for Computer Science *(Undergraduate, Summer 2022, Fall 2022)*
  *  Applied Algorithms *(Graduate, Fall 2021)*
