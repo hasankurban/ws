@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hasan Kurban
+title: Dr. Hasan Kurban
 
 
 # Is this the primary user of the site?
