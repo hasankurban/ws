@@ -14,11 +14,10 @@ image:
 
 summary: Are They What They Claim--A Comprehensive Study of Ordinary Linear Regression Among the Top Machine Learning Libraries in Python
 tags:
-- B+ Trees
-- High Dimensional Data 
-- Paired Indexing
-- Big Data Mining
-- Nearest Neighbors
+- OLS
+- Ordinary Least Squares
+- Python
+- Machine Learning
 
 title: A Comprehensive Study of Ordinary Linear Regression in Python
 url_code: ""
