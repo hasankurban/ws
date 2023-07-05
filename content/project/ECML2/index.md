@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Are Sports Awards About Sports? Using AI to. Find the Answer
+summary: Are Sports Awards About Sports? Using AI to Find the Answer
 tags:
 - data-mining 
 - nba-fantasy-league
