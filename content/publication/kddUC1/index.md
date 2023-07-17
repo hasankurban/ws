@@ -4,7 +4,7 @@ authors:
 - Josh Elms
 - Sam Johnson
 - Madhavan K R
--  Keerthana SugasiX
+-  Keerthana Sugasi
 -  Parichit Sharma
 -  Hasan Kurban
 -  Mehmet M. Dalkilic
