@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - M. Oguzhan Kulekci
 - Mehmet M. Dalkilic
-date: "2023-04-29T00:00:00Z"
+date: "2024-04-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *DSAA*
-publication_short: In *10th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Thessaloniki, Greece, (under-review)*
+publication_short: In *40th IEEE International Conference on Data Engineering  (ICDE), Utrecht, Netherlands, (under-review)*
 
 
 
