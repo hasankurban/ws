@@ -3,9 +3,9 @@ title: "Novel NBA Fantasy League driven by Engineered Team Chemistry and Scaled 
 authors:
 - Ganesh Arkanath
 - Nishad Gupta
-- Parichit Sharma,
-- Madhavan K R
 - Hasan Kurban
+- Parichit Sharma
+- Madhavan K R
 -  Elham Khorasani Buxton
 - Mehmet M. Dalkilic
 date: "2023-05-30T00:00:00Z"
