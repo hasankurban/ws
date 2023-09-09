@@ -1,5 +1,5 @@
 ---
-title: "Making Fantasy Leagues More Real: Adding Team Chemistry"
+title: "Novel NBA Fantasy League driven by Engineered Team Chemistry and Scaled Position Statistics"
 authors:
 - Ganesh Arkanath
 - Nishad Gupta
@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ECML/PKDD*
-publication_short: In *ECML/PKDD, 10th Workshop on Machine Learning and Data Mining for Sports Analytics, Turin, Italy (under-review)*
+publication_short: In *IEEE International Conference on Big Data (IEEE BigData), Sorrento, Italy (under-review)*
 
 
 
