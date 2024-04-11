@@ -1,15 +1,14 @@
 ---
-title: "Are Sports Awards About Sports? Using AI to Find the Answer"
+title: "Novel NBA Fantasy League driven by Engineered Team Chemistry and Scaled Position Statistics"
 authors:
-- Anshumaan Shankar
-- Gowtham Veerabadran Rajasekaran
-- Jacob Hendricks
-- Jared Andrew Schlak
+- Ganesh Arkanath
+- Nishad Gupta
+- Hasan Kurban
 - Parichit Sharma
 - Madhavan K R
-- Hasan Kurban
+- Elham Khorasani Buxton
 - Mehmet M. Dalkilic
-date: "2023-05-31T00:00:00Z"
+date: "2023-06-31T00:00:00Z"
 doi: "10.1007/978-3-031-53833-9_8"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +21,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ECML/PKDD*
-publication_short: In *ECML/PKDD, 10th Workshop on Machine Learning and Data Mining for Sports Analytics, Turin, Italy (accepted)*
+publication: In *IEEE Bigg Data*
+publication_short: In *IEEE International Conference on Big Data: Data-Centric AI, Sorrento, Italy*
 
 
 
@@ -34,11 +33,11 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-53833-9_8'
-url_code: 'https://github.com/Nebbocaj/NBA_Awards'
-url_dataset: 'https://github.com/Nebbocaj/NBA_Awards'
+url_pdf: 'https://www.computer.org/csdl/proceedings/bigdata/2023/1TUOf7Za4r6'
+url_code: 'https://github.com/gany-15/nbafan'
+url_dataset: 'https://github.com/gany-15/nbafan'
 url_poster: ''
-url_project: ''
+url_project: 'https://dalkilic.luddy.indiana.edu/fantasyleague/'
 url_source: ''
 url_video: ''
 
