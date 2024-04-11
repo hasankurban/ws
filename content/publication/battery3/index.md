@@ -6,7 +6,7 @@ authors:
 - Hasan Kurban
 - Mehmet M. Dalkilic
 date: "2023-01-26T00:00:00Z"
-doi: ""
+doi: "10.1016/j.est.2023.107085"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Energy Storage (accepted)"
+publication: "Journal of Energy Storage"
 publication_short: ""
 
 
