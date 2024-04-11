@@ -14,11 +14,11 @@ image:
 
 summary: A Reinforcement Learning Approach  to Effective Forecasting  of Pediatric Hypoglycemia in Diabetes I Patients: an extended de Bruijn Graph
 tags:
-- Computer Vision
-- Density Functional Theory
+- Hypoglycemia 
+- Diabetes 
 - Computational Science
 - Artificial Intelligence
-- Materials Science
+- de Bruijn Graph
 
 title:  Pediatric Hypoglycemia Forecasting
 url_code: ""
