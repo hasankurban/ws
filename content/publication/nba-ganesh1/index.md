@@ -8,8 +8,8 @@ authors:
 - Madhavan K R
 - Elham Khorasani Buxton
 - Mehmet M. Dalkilic
-date: "2023-06-31T00:00:00Z"
-doi: "10.1007/978-3-031-53833-9_8"
+date: "2023-11-31T00:00:00Z"
+doi: "10.1109/BigData59044.2023.10386444"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://www.computer.org/csdl/proceedings/bigdata/2023/1TUOf7Za4r6'
+url_pdf: 'https://www.computer.org/csdl/proceedings-article/bigdata/2023/10386444/1TUOoGmiWiI'
 url_code: 'https://github.com/gany-15/nbafan'
 url_dataset: 'https://github.com/gany-15/nbafan'
 url_poster: ''
