@@ -2,7 +2,7 @@
 title: "A Noise-Adaptive Sequential Extreme Gradient Boosting Algorithm for Optimality Prediction of User Grouping in IM-OFDMA Systems"
 authors:
 - Fahrettin Ay
-- CSaud Althunibat
+- aud Althunibat
 - Khalid Qaraqe
 - Hasan Kurban
 date: "2024-02-05T00:00:00Z"
