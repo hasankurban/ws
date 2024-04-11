@@ -33,9 +33,9 @@ tags:
 featured: true
 
 links:
-url_pdf: 
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://kdd.org/kdd2023/wp-content/uploads/2023/08/johnson2023are.pdf'
+url_code: 'https://github.com/sej2020/are-they-what-they-claim-supplementary-materials'
+url_dataset: 'https://github.com/sej2020/are-they-what-they-claim-supplementary-materials'
 url_poster: ''
 url_project: ''
 url_source: ''
