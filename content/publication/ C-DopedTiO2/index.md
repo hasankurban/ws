@@ -1,5 +1,5 @@
 ---
-title: "Leveraging DFTB and Computer Vision for Enhanced Electronic Structure Prediction of C-Doped TiO$_2$ Nanoparticles: A Novel Machine Learning Approach"
+title: "Leveraging DFTB and Computer Vision for Enhanced Electronic Structure Prediction of C-Doped TiO$_2$ Nanoparticles--A Novel Machine Learning Approach"
 authors:
 - Mustafa Kurban
 - Can Polat
