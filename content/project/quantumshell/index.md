@@ -2,8 +2,8 @@
 date: "2024-04-09T00:00:00Z"
 external_link: ""
 image:
-  caption: 
-  focal_point: 
+caption: 
+focal_point: 
 #links:
 #- icon: 
 #  icon_pack: 
@@ -12,10 +12,7 @@ image:
 #slides: 
 
 
-summary: Ground-State Eigenvalue
-Prediction of Materials Using Electronic Shell
-Structures and Fermionic Properties via
-Convolutions
+summary: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions
 tags:
 - DFTB
 - DFT
@@ -24,7 +21,7 @@ tags:
 - Artificial Intelligence
 - Materials Science
 
-title:   QuantumShellNet
+title: QuantumShellNet
 url_code: ""
 url_pdf: ""
 url_slides: ""

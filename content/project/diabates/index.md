@@ -2,8 +2,8 @@
 date: "2024-04-07T00:00:00Z"
 external_link: ""
 image:
-  caption: 
-  focal_point: 
+caption: 
+focal_point: 
 #links:
 #- icon: 
 #  icon_pack: 
@@ -20,7 +20,7 @@ tags:
 - Artificial Intelligence
 - de Bruijn Graph
 
-title:  Pediatric Hypoglycemia Forecasting
+title: Pediatric Hypoglycemia Forecasting
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -2,8 +2,8 @@
 date: "2024-04-06T00:00:00Z"
 external_link: ""
 image:
-  caption: 
-  focal_point: 
+caption: 
+focal_point: 
 #links:
 #- icon: 
 #  icon_pack: 
