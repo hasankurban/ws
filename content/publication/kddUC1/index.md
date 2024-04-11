@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *KDD*
-publication_short: In *KDD Undergraduate Consortium (KDD-UC), Long Beach, CA, USA (accepted)*
+publication_short: In *KDD Undergraduate Consortium (KDD-UC), Long Beach, CA, USA*
 
 
 
@@ -33,12 +33,12 @@ tags:
 featured: true
 
 links:
-url_pdf: 
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://kdd.org/kdd2023/wp-content/uploads/2023/08/elms2023ares.pdf'
+url_code: 'https://github.com/Joshua-Elms/AReS-whitepaper-supplementary-materials'
+url_dataset: 'https://github.com/Joshua-Elms/AReS-whitepaper-supplementary-materials'
 url_poster: ''
 url_project: ''
-url_source: ''
+url_source: 'https://dalkilic.luddy.indiana.edu'
 url_video: ''
 
 
