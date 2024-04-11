@@ -1,5 +1,5 @@
 ---
-date: "2024-04-02T00:00:00Z"
+date: "2024-04-09T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -18,6 +18,7 @@ tags:
 - Density Functional Theory
 - Computational Science
 - Artificial Intelligence
+- Materials Science
 
 title: QuantumShellNet
 url_code: ""
