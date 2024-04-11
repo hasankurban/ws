@@ -1,11 +1,15 @@
 ---
-title: "A Noise-Adaptive Sequential Extreme Gradient Boosting Algorithm for Optimality Prediction of User Grouping in IM-OFDMA Systems"
+title: "An Extended de Bruijn Graph for Feature Engineering Over Unstructured Data"
 authors:
-- Fahrettin Ay
-- Saud Althunibat
-- Khalid Qaraqe
+- Mert Onur Cakiroglu
 - Hasan Kurban
-date: "2024-02-05T00:00:00Z"
+- Parichit Sharma
+- M. Oguzhan Kulekci
+- Elham Khorasani Buxton
+- Maryam Raeeszadeh-Sarmazdeh
+- Mehmet Dalkilic
+
+date: "2024-03-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +22,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Communications (under-review)"
+publication: "Machine Learning: Science and Technology (under-review)"
 publication_short: ""
 
 
