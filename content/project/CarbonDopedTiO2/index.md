@@ -16,11 +16,12 @@ summary: Enhancing Photocatalytic Efficiency of TiO2
 Nanoparticles through Carbon Doping: An Integrated
 DFTB and Computer Vision Approach
 tags:
-- Hypoglycemia 
-- Diabetes 
+- DFT
+- Computer Vision
 - Computational Science
 - Artificial Intelligence
-- de Bruijn Graph
+- Materials Science
+- Carbon Doped Ti02
 
 title:  A DFTB and Computer Vision Approach
 url_code: ""
