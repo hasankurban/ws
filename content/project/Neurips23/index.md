@@ -12,8 +12,7 @@ image:
 #slides: 
 
 
-summary: An Extended de Bruijn Graph for Feature Engineering
-Over Unstructured Data
+summary: An Extended de Bruijn Graph for Feature Engineering Over Unstructured Data
 tags:
 - Feature Engineering
 - De Bruijn Graph
