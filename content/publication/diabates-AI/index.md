@@ -1,5 +1,5 @@
 ---
-title: "Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions"
+title: "Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions (under-review)"
 authors:
 - Can Polat
 - Hasan Kurban
