@@ -13,8 +13,7 @@ focal_point:
 
 
 summary: Enhancing Photocatalytic Efficiency of TiO2
-Nanoparticles through Carbon Doping--An Integrated
-DFTB and Computer Vision Approach
+Nanoparticles through Carbon Doping
 tags:
 - DFTB
 - Computer Vision
