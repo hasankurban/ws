@@ -13,7 +13,7 @@ image:
 
 
 summary: Enhancing Photocatalytic Efficiency of TiO2
-Nanoparticles through Carbon Doping: An Integrated
+Nanoparticles through Carbon Doping--An Integrated
 DFTB and Computer Vision Approach
 tags:
 - DFT
