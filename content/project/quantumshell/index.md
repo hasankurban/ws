@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: A Reinforcement Learning Approach  to Effective Forecasting  of Pediatric Hypoglycemia in Diabetes I Patients: an extended de Bruijn Graph
+summary: A Reinforcement Learning Approach  to Effective Forecasting  of Pediatric Hypoglycemia in Diabetes I Patients--an extended de Bruijn Graph
 tags:
 - Hypoglycemia 
 - Diabetes 
