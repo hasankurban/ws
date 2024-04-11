@@ -1,5 +1,5 @@
 ---
-date: "2014-09-15T00:00:00Z"
+date: "2023-06-30T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -12,18 +12,17 @@ image:
 #slides: 
 
 
-summary: Studying the milky way galaxy using paraheap-k
+summary: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions
 tags:
-- Clustering
-- Big Data
-- Expectation Maximization
-- Data Mining
-- Heap
-title: Studying the Milky Way
+- Computer Vision
+- Density Functional Theory
+- Computational Science
+- Artificial Intelligence
+
+title: QuantumShellNet
 url_code: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/6898791"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-Dramatic increases in the amount and complexity of stellar data must be matched by new or refined algorithms that can help scientists make sense of this data and so better understand the universe. ParaHeap-k is a parallel cluster algorithm for analyzing big data that can potentially prove useful to astronomical research.
+Efficient and precise characterization of material properties is essential in Quantum Mechanical Modeling. Density Functional Theory DFT}, while a foundational method in material property analysis, suffers from scalability issues and precision limitations, particularly with complex materials. In response, we introduce  QuantumShellNet,  a novel, vision-based approach with an orbital encoder and a physics-informed deep neural network, meticulously engineered for the rapid and accurate prediction of ground-state eigenvalues of materials using electronic shell structures and their fermionic properties. Our experiments across a diverse set of elements and molecules reveal that QuantumShellNet outperforms both traditional DFT and modern machine learning counterparts, including PsiFormer and FermiNet.
