@@ -10,7 +10,7 @@ authors:
 - Hasan Kurban
 - Mehmet M. Dalkilic
 date: "2023-05-31T00:00:00Z"
-doi: "10.1007/978-3-031-53833-9_8"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-53833-9_8'
+url_pdf: ''
 url_code: 'https://github.com/Nebbocaj/NBA_Awards'
 url_dataset: 'https://github.com/Nebbocaj/NBA_Awards'
 url_poster: ''
