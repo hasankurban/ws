@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Bigg Data*
+publication: In *IEEE Big Data*
 publication_short: In *IEEE International Conference on Big Data: Data-Centric AI, Sorrento, Italy*
 
 
