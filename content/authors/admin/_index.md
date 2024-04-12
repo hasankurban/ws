@@ -14,7 +14,7 @@ organizations:
 - name: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I'm a computer scientist & machine learning researcher who loves building intelligent systems to find data-driven solutions to real-world problems. 
+bio: As a Computer Scientist and Machine Learning Researcher, I am passionate about developing intelligent systems that leverage data-driven approaches to address real-world challenges.
 
 # Interests to show in About widget
 interests:
