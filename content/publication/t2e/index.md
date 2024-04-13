@@ -17,8 +17,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *KDD*
-publication_short: In *KDD Undergraduate Consortium (KDD-UC), Long Beach, CA, USA*
+publication: In *OpenReview*
+publication_short: In *OpenReview*
 
 
 
