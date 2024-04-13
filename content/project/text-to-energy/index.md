@@ -12,12 +12,13 @@ focal_point:
 #slides: 
 
 
-summary: Text-To-Energy-- Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron
+summary: Text-To-Energy--Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron
 tags:
 - DFTB
 - Computational Science
 - Artificial Intelligence
-- Carbon Doped Ti02
+- Materials Science
+- Physics Informed Machine Learning
 
 title:  T2E
 url_code: ""
