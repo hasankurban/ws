@@ -20,6 +20,7 @@ tags:
 - Computational Science
 - Artificial Intelligence
 - Materials Science
+- Physics Informed Machine Learning
 
 title: QuantumShellNet
 url_code: ""
