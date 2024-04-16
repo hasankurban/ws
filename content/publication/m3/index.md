@@ -1,12 +1,12 @@
 ---
-title: "ti-knn: Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data & Large Data Sets"
+title: "Novel De Bruijn Graph Embeddings for Enhanced Time Series Forecasting"
 authors:
-- Madhavan Kalkunte Ramachandra
+- Mert Onur Cakiroglu
 - Hasan Kurban
-- M. Oguzhan Kulekci
+- Elham Khorasani Buxton
 - Mehmet Dalkilic
 
-date: "2024-03-06T00:00:00Z"
+date: "2024-04-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Data Mining and Knowledge Discovery (under-review)"
+publication: "Machine Learning (under-review)"
 publication_short: ""
 
 
