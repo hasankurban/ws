@@ -55,7 +55,7 @@ body {
 Dr. Kurban earned his Ph.D. in Computer Science with a minor in Statistics in 2017 from Indiana University Bloomington. His research spans data-centric AI, deep learning, graph theory, and large-scale data analytics, with applications across diverse fields such as computational materials science, biology, sports analytics, public transportation, and astronomy.
 
 ### Recent Projects
-Dr. Kurban has pioneered AI and data-driven methodologies in materials science and engineering. His innovative approach is transforming traditional sciences through technological advancements.
+Noteworthy recent projects include pioneering AI and data-driven methodologies in materials science and engineering. Dr. Kurban is dedicated to transforming traditional science through AI innovations, leveraging technology to tackle complex problems.
 
 ### IEEE DSAA'24 Conference
 **Join Our Special Research Session:** "Advancing Materials Science through Data Science: Innovations, Applications, and Challenges" at [the 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)](https://dsaa2024.dsaa.co), October in San Diego. For more details and participation, visit [our session's dedicated webpage](https://www.dsaa2024-specialsession-data-driven-material-science.com/homepage).
