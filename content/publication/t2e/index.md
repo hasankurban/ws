@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Chemical Theory and Computation (under-review)"
+publication: "ACS Omega (under-review)"
 publication_short: ""
 
 
