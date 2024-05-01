@@ -25,6 +25,11 @@
   weight = 40
 
   [[main]]
+  name = "ResearchGroup"
+  url = "/ResearchGroup"
+  weight = 40
+
+  [[main]]
   name = "CV"
   url = "media/cv.pdf"
   weight = 50
