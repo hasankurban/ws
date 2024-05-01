@@ -65,6 +65,6 @@ li {
   <li><strong>Ahmed Al-thani</strong>, Electrical and Computer Engineering, Texas A&M University at Qatar</li>
     <li><strong>Mohammed Baghazal</strong>, Electrical and Computer Engineering, Texas A&M University at Qatar</li>
  <li><strong>Ziyad Ghalayini</strong>, Electrical and Computer Engineering, Texas A&M University at Qatar</li>
- <li><strong>Khalifa Al-ghanim</strong>, Electrical and Computer Engineering, Texas A&M University at Qatar</li>
+ <li><strong>Khalifa Al-mansoori</strong>, Electrical and Computer Engineering, Texas A&M University at Qatar</li>
 </ul>    
 
