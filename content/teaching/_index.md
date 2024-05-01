@@ -10,63 +10,59 @@ title: Teaching
 body {
   text-align: justify;
 }
+h2, h3 {
+  color: #2A4D69;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin-bottom: 10px;
+}
+a {
+  color: #4B88A2;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 </style>
 
-## Course Offerings
+## Current and Past Course Offerings
 
-### Undergraduate Courses
+### **Undergraduate Courses**
 
-- **Engineering Lab I: Computation**
-  - Spring 2024, Fall 2024
-- **Computer Programming and Algorithms**
-  - Fall 2023, Fall 2024
-- **Introduction to Digital Systems Design**
-  - Fall 2023
-- **Introduction to Programming and Computers**
-  - Spring 2023
-- **Discrete Structures for Computer Science**
-  - Summer 2022, Fall 2022
-- **Introduction to Data Analysis and Mining**
-  - Spring 2018, Spring 2022
-- **Data Mining**
-  - Fall 2012, Fall 2013, Spring 2015, Fall 2016, Spring 2016, Spring 2023
-- **Data Structures**
-  - Spring 2014, Fall 2018
-- **Seminar in Computer Science: Data Mining**
-  - Fall 2014, Fall 2015
-- **Artificial Neural Networks**
-  - Fall 2018, Fall 2019
-- **Introduction to Computer Engineering**
-  - Fall 2018, Fall 2019
-- **Data Security**
-  - Spring 2019
-- **Algorithms and Programming I**
-  - Fall 2019
-- **Algorithms and Programming II**
-  - Spring 2019
-- **Web and Internet Technologies**
-  - Spring 2019
+<ul>
+  <li><strong>Engineering Lab I: Computation</strong> - Spring 2024, Fall 2024</li>
+  <li><strong>Computer Programming and Algorithms</strong> - Fall 2023, Fall 2024</li>
+  <li><strong>Introduction to Digital Systems Design</strong> - Fall 2023</li>
+  <li><strong>Introduction to Programming and Computers</strong> - Spring 2023</li>
+  <li><strong>Discrete Structures for Computer Science</strong> - Summer 2022, Fall 2022</li>
+  <li><strong>Introduction to Data Analysis and Mining</strong> - Spring 2018, Spring 2022</li>
+  <li><strong>Data Mining</strong> - Multiple semesters</li>
+  <li><strong>Data Structures</strong> - Spring 2014, Fall 2018</li>
+  <li><strong>Seminar in Computer Science: Data Mining</strong> - Fall 2014, Fall 2015</li>
+  <li><strong>Artificial Neural Networks</strong> - Fall 2018, Fall 2019</li>
+  <li><strong>Introduction to Computer Engineering</strong> - Fall 2018, Fall 2019</li>
+  <li><strong>Data Security</strong> - Spring 2019</li>
+  <li><strong>Algorithms and Programming I & II</strong> - Fall 2019, Spring 2019</li>
+  <li><strong>Web and Internet Technologies</strong> - Spring 2019</li>
+</ul>
 
-### Graduate Courses
+### **Graduate Courses**
 
-- **Applied Algorithms**
-  - Fall 2021
-- **Applied Machine Learning**
-  - Fall 2017
-- **Online Applied Data Mining**
-  - Fall 2017
-- **Elements of Artificial Intelligence**
-  - Spring 2018
-- **Introduction to Artificial Intelligence**
-  - Spring 2017
-- **Machine Learning**
-  - Spring 2013
-- **Topics in Algorithms and Computing Theory**
-  - Fall 2014
-- **Real World Data Science**
-  - Summer 2016 (Online class sponsored by [Eli Lilly and Company](https://www.lilly.com/))
+<ul>
+  <li><strong>Applied Algorithms</strong> - Fall 2021</li>
+  <li><strong>Applied Machine Learning</strong> - Fall 2017</li>
+  <li><strong>Online Applied Data Mining</strong> - Fall 2017</li>
+  <li><strong>Elements of Artificial Intelligence</strong> - Spring 2018</li>
+  <li><strong>Introduction to Artificial Intelligence</strong> - Spring 2017</li>
+  <li><strong>Machine Learning</strong> - Spring 2013</li>
+  <li><strong>Topics in Algorithms and Computing Theory</strong> - Fall 2014</li>
+  <li><strong>Real World Data Science</strong> - Summer 2016 (Online class sponsored by <a href="https://www.lilly.com/">Eli Lilly and Company</a>)</li>
+</ul>
 
-### Notes
+### **Course Access and Materials**
 
-- Courses are structured to offer foundational to advanced topics in both theoretical and applied aspects of computer science and engineering.
-- Links and additional resources for each course are available on the course-specific pages.
+- For syllabi, lecture notes, and additional resources, please visit the individual course pages linked in the titles.
+- Courses are designed to build a solid foundation in core concepts while advancing to specialized topics and applications in computer science and engineering.
