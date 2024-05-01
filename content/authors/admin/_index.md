@@ -49,7 +49,6 @@ body {
 }
 </style>
 
-## Dr. Hasan Kurban
 **Assistant Professor of [Electrical and Computer Engineering](https://www.qatar.tamu.edu/academics/ecen/faculty-and-staff/dr.-hasan-kurban)** at [Texas A&M University at Qatar](https://www.qatar.tamu.edu) and **Adjunct Associate Professor of [Computer Science](https://cs.indiana.edu) and [Data Science](https://datascience.indiana.edu/index.html)** at [Indiana University Bloomington](https://bloomington.iu.edu/index.html).
 
 Dr. Kurban earned his Ph.D. in Computer Science with a minor in Statistics in 2017 from Indiana University Bloomington. His research spans data-centric AI, deep learning, graph theory, and large-scale data analytics, with applications across diverse fields such as computational materials science, biology, sports analytics, public transportation, and astronomy.
