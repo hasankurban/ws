@@ -51,10 +51,7 @@ body {
 
 **Assistant Professor of [Electrical and Computer Engineering](https://www.qatar.tamu.edu/academics/ecen/faculty-and-staff/dr.-hasan-kurban)** at [Texas A&M University at Qatar](https://www.qatar.tamu.edu) and **Adjunct Associate Professor of [Computer Science](https://cs.indiana.edu) and [Data Science](https://datascience.indiana.edu/index.html)** at [Indiana University Bloomington](https://bloomington.iu.edu/index.html).
 
-Dr. Kurban earned his Ph.D. in Computer Science with a minor in Statistics in 2017 from Indiana University Bloomington. His research spans data-centric AI, deep learning, graph theory, and large-scale data analytics, with applications across diverse fields such as computational materials science, biology, sports analytics, public transportation, and astronomy.
-
-### Recent Projects
-Noteworthy recent projects include pioneering AI and data-driven methodologies in materials science and engineering. Dr. Kurban is dedicated to transforming traditional science through AI innovations, leveraging technology to tackle complex problems.
+Dr. Kurban earned his Ph.D. in Computer Science with a minor in Statistics in 2017 from Indiana University Bloomington. His research spans data-centric AI, deep learning, graph theory, and large-scale data analytics, with applications across diverse fields such as computational materials science, biology, sports analytics, public transportation, and astronomy. Noteworthy recent projects include pioneering AI and data-driven methodologies in materials science and engineering. Dr. Kurban is dedicated to transforming traditional science through AI innovations, leveraging technology to tackle complex problems.
 
 ### IEEE DSAA'24 Conference
 **Join Our Special Research Session:** "Advancing Materials Science through Data Science: Innovations, Applications, and Challenges" at [the 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)](https://dsaa2024.dsaa.co), October in San Diego. For more details and participation, visit [our session's dedicated webpage](https://www.dsaa2024-specialsession-data-driven-material-science.com/homepage).
