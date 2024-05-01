@@ -38,6 +38,6 @@ body {
 ### Undergraduate Students:
 - **Josh Elms**, Computer Science, Indiana University Bloomington
 - **Sam Johnson**, Computer Science, Indiana University Bloomington
-- **Iqra Yakub**, Electrical and Computer Engineering, Texas A&M University, College Station
-- **Shahd Darwish**, Electrical and Computer Engineering, Texas A&M University, College Station
-- **Syed Umar Ahmed**, Electrical and Computer Engineering, Texas A&M University, College Station
+- **Iqra Yakub**, Electrical and Computer Engineering, Texas A&M University at Qatar
+- **Shahd Darwish**, Electrical and Computer Engineering, Texas A&M University at Qatar
+- **Syed Umar Ahmed**, Electrical and Computer Engineering, Texas A&M University at Qatar
