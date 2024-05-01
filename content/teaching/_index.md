@@ -64,5 +64,5 @@ a:hover {
 
 ### **Course Access and Materials**
 
-- For syllabi, lecture notes, and additional resources, please visit the individual course pages linked in the titles.
+- Links and additional resources for each course are available on the course-specific pages.
 - Courses are designed to build a solid foundation in core concepts while advancing to specialized topics and applications in computer science and engineering.
