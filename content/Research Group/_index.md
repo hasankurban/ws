@@ -22,7 +22,7 @@ body {
 - **Can Polat**, Electrical and Computer Engineering, Texas A&M University, College Station
 - **Parichit Sharma**, Computer Science, Indiana University Bloomington
 - **Fahrettin Ay**, Electrical and Computer Engineering, Texas A&M University, College Station
-- **Samir Salam Sameer Abdaljalil**, Electrical and Computer Engineering, Texas A&M University, College Station
+- **Samir Abdaljalil**, Electrical and Computer Engineering, Texas A&M University, College Station
 
 ### Master's Students:
 - **Madhavan Kalkunte Ramachandra**, Computer Science, Indiana University Bloomington
