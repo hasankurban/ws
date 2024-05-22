@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence in Medicine (under-review)"
+publication: "Interdisciplinary Sciences: Computational Life Sciences (under-review)"
 publication_short: ""
 
 
