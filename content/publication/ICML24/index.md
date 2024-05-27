@@ -1,10 +1,11 @@
 ---
-title: "Text-To-Energy--Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron"
+title: "TGPCNet: Achieving Simplicity in Doped Material Simulation via Multimodal Text-Guided Pure Compounds for Enhanced Solar Efficiency"
 authors:
-- Can Polat
-- Hasan Kurban
-- Mustafa Kurban
-date: "2024-04-20T00:00:00Z"
+
+-  Can Polat
+-  Hasan Kurban
+-  Mustafa Kurban
+date: "2024-02-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,23 +15,26 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACS Omega (under-review)"
-publication_short: ""
+publication: In *Basarim*
+publication_short: In *Basarim 8th High-Performance Computing Conference, Ankara, Turkey, 2024 (under-review)*
 
 
 
-# links:
-# - name: ""
-#   url: ""
+# Summary. An optional shortened abstract.
+summary:
+
+tags:
+featured: true
+
+links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
-url_slides: ''
+url_project: ''
 url_source: ''
 url_video: ''
 
@@ -40,19 +44,16 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+# slides: example
 ---
 
 
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-
-
-
