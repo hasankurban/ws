@@ -1,12 +1,11 @@
 ---
-title: "TGPCNet--Achieving Simplicity in Doped Material Simulation via Multimodal
-Text-Guided Pure Compounds for Enhanced Solar Efficiency"
+title: "TGPCNet--Achieving Simplicity in Doped Material Simulation via Multimodal Text-Guided Pure Compounds for Enhanced Solar Efficiency"
 authors:
 
 -  Can Polat
 -  Hasan Kurban
 -  Mustafa Kurban
-date: "2024-05-26T00:00:00Z"
+date: "2024-05-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
