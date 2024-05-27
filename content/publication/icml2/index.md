@@ -1,5 +1,5 @@
 ---
-title: "What Data-Centric AI Can Do For $k$-means: a Faster, Robust $k$-means-d"
+title: "What Data-Centric AI Can Do For $k$-means--a Faster, Robust $k$-means-d"
 authors:
 
 -  Parichit Sharma
