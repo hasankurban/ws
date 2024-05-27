@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ---
 title: "TGPCNet--Achieving Simplicity in Doped Material Simulation via Multimodal Text-Guided Pure Compounds for Enhanced Solar Efficiency"
 authors:
