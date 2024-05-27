@@ -40,6 +40,7 @@ li {
   <li><strong>Parichit Sharma</strong>, Computer Science, Indiana University Bloomington</li>
   <li><strong>Fahrettin Ay</strong>, Electrical and Computer Engineering, Texas A&M University, College Station</li>
   <li><strong>Samir Abdaljalil</strong>, Electrical and Computer Engineering, Texas A&M University, College Station</li>
+  <li><strong>Hasan Cetinkaya</strong>, Electrical and Computer Engineering, Texas A&M University, College Station</li>
 </ul>
 
 ### Master's Students
