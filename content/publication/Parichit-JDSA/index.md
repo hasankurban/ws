@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ---
 title: "p-ClustVal--Enhancing Clustering and Valuation with a Novel p-adic Approach in High-Dimensional Genomics Data"
 authors:

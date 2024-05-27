@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ---
 title: "Text-To-Energy--Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron"
 authors:

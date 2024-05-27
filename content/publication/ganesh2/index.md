@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ---
 title: "PlayoffsNet--Enhancing NBA Playoffs Prediction Through Engineered Features and Explainable Deep Learning"
 authors:
