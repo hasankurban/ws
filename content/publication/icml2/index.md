@@ -1,13 +1,11 @@
 ---
-title: "Refining k-means Clustering Through
-Data-Centric AI: A Leap Towards Enhanced
-Performance"
+title: "What Data-Centric AI Can Do For $k$-means: a Faster, Robust $k$-means-d"
 authors:
 
 -  Parichit Sharma
 -  Hasan Kurban
 -  Mehmet M. Dalkilic
-date: "2024-02-29T00:00:00Z"
+date: "2024-04-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +18,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Basarim*
-publication_short: In *Basarim 8th High-Performance Computing Conference, Ankara, Turkey, 2024 (under-review)*
+publication: In *ICML*
+publication_short: In *The 41st International Conference on Machine Learning (ICML), Data-centric Machine Learning Research (DMLR)--Datasets for Foundation Models, Vienna, Austria, 2024 (under-review)*
 
 
 
