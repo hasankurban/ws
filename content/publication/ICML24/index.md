@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICML*
-publication_short: In *The 41st International Conference on Machine Learning (ICML), ML for Life and Material Science: From Theory to Industry Applications, Vienna, Austria, 2024 (under-review)*
+publication_short: In *ICML: ML for Life and Material Science: From Theory to Industry Applications, Vienna, Austria, 2024 (under-review)*
 
 
 
