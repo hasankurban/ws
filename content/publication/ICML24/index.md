@@ -18,8 +18,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Basarim*
-publication_short: In *Basarim 8th High-Performance Computing Conference, Ankara, Turkey, 2024 (under-review)*
+publication: In *ICML*
+publication_short: In *The 41st International Conference on Machine Learning (ICML), Vienna, Austria, 2024 (under-review)*
 
 
 
