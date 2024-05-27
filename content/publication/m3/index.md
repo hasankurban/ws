@@ -1,4 +1,3 @@
-<div style="text-align: justify;">
 ---
 title: "Novel De Bruijn Graph Embeddings for Enhanced Time Series Forecasting"
 authors:
