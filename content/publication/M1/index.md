@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Interdisciplinary Sciences: Computational Life Sciences (under-review)"
+publication: "Scientific Reports (under-review)"
 publication_short: ""
 
 

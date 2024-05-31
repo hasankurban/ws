@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Physical Chemistry C (under-review)"
+publication: "Scientific Reports (under-review)"
 publication_short: ""
 
 
