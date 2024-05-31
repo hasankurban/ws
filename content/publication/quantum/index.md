@@ -1,5 +1,5 @@
 ---
-title: "Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions"
+title: "QuantumShellNet--Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions"
 authors:
 - Can Polat
 - Hasan Kurban
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Physical Chemistry C (under-review)"
+publication: "Journal of Computational Physics (under-review)"
 publication_short: ""
 
 
