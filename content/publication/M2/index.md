@@ -1,5 +1,5 @@
 ---
-title: "An Extended de Bruijn Graph for Feature Engineering Over Unstructured Data"
+title: "An Extended de Bruijn Graph for Feature Engineering Over Biological Sequential Data"
 authors:
 - Mert Onur Cakiroglu
 - Hasan Kurban
