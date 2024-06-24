@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICML*
-publication_short: In *The 41st International Conference on Machine Learning (ICML), Data-centric Machine Learning Research (DMLR)--Datasets for Foundation Models, Vienna, Austria, 2024 (under-review)*
+publication_short: In *The 41st International Conference on Machine Learning (ICML), Data-centric Machine Learning Research (DMLR)--Datasets for Foundation Models, Vienna, Austria, 2024 (accepted)*
 
 
 
