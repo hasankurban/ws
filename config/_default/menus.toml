@@ -24,6 +24,11 @@
   url = "/teaching"
   weight = 40
 
+  # [[main]]
+  # name = "Research Group"
+  # url = "/Research Group"
+  # weight = 40
+
   [[main]]
   name = "CV"
   url = "media/cv.pdf"
