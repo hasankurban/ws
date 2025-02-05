@@ -1,5 +1,5 @@
 ---
-title: "A Reinforcement Learning Approach to Effective Forecasting of Pediatric Hypoglycemia in Diabetes I Patients: an extended de Bruijn Graph"
+title: "A Reinforcement Learning Approach to Effective Forecasting of Pediatric Hypoglycemia in Diabetes I Patients--an extended de Bruijn Graph"
 authors:
 - Mert Onur Cakiroglu
 - Hasan Kurban
