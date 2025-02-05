@@ -1,5 +1,5 @@
 ---
-title: "Geometric-k-means: An Unbounded, Accurate and Energy-Efficient k-means"
+title: "Geometric-k-means--An Unbounded, Accurate and Energy-Efficient k-means"
 authors:
 - Parichit Sharma
 - Hasan Kurban
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Machine Learning"
+publication: "Machine Learning (under-review)"
 publication_short: ""
 
 

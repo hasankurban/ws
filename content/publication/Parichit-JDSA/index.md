@@ -1,5 +1,5 @@
 ---
-title: "p-ClustVal: A Novel p-adic Approach for Enhanced Clustering and Valuation in High-Dimensional scRNASeq Data"
+title: "p-ClustVal--A Novel p-adic Approach for Enhanced Clustering and Valuation in High-Dimensional scRNASeq Data"
 authors:
 - Parichit Sharma
 - Sarthak Mishra
