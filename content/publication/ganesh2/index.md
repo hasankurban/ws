@@ -4,7 +4,7 @@ authors:
 - Ganesh Arkanath
 - Hasan Kurban
 - Mehmet M. Dalkilic
-date: "2024-04-29T00:00:00Z"
+date: "2025-01-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Data Science and Analytics (under-review)"
+publication: "Expert Systems with Applications  (under-review)"
 publication_short: ""
 
 
