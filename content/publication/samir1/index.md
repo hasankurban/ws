@@ -1,5 +1,5 @@
 ---
-title: "Deep Temporal & Structural Embeddings for Unsupervised Anomaly Detection in Dynamic Graphs"
+title: "Deep Temporal & Structural Embeddings for Robust Unsupervised Anomaly Detection in Dynamic Graphs"
 authors:
 - Samir Abdaljalil
 - Hasan Kurban

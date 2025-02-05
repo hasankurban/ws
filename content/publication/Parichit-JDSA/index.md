@@ -1,11 +1,11 @@
 ---
-title: "p-ClustVal--Enhancing Clustering and Valuation with a Novel p-adic Approach in High-Dimensional Genomics Data"
+title: "p-ClustVal: A Novel p-adic Approach for Enhanced Clustering and Valuation in High-Dimensional scRNASeq Data"
 authors:
 - Parichit Sharma
 - Sarthak Mishra
 - Hasan Kurban
 - Mehmet M. Dalkilic
-date: "2024-04-28T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Data Science and Analytics (under-review)"
+publication: "International Journal of Data Science and Analytics"
 publication_short: ""
 
 
