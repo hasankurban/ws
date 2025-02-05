@@ -6,7 +6,7 @@ authors:
 - Elham Khorasani Buxton
 - Mehmet Dalkilic
 
-date: "2024-04-15T00:00:00Z"
+date: "2025-01-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Machine Learning (under-review)"
+publication: "IEEE Access (under-review)"
 publication_short: ""
 
 
