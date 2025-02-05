@@ -6,7 +6,7 @@ authors:
 - M. Oguzhan Kulekci
 - Mehmet Dalkilic
 
-date: "2024-03-06T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Data Mining and Knowledge Discovery (under-review)"
+publication: "Scientific Reports (under-review)"
 publication_short: ""
 
 
