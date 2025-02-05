@@ -2,7 +2,6 @@
 title: "TDCM25--A Multi-Modal Multi-Task Benchmark for Temperature-Dependent Crystalline Materials"
 authors:
 - Can Polat
-- Josh Elms
 - Hasan Kurban
 - Erchin Serpedin
 - Mustafa Kurban
