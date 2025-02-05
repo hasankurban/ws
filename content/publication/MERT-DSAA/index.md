@@ -1,6 +1,5 @@
 ---
-title: "A Novel Discrete Time Series Representation with De Bruijn Graphs for Enhanced Forecasting using
-TimesNet"
+title: "A Novel Discrete Time Series Representation with De Bruijn Graphs for Enhanced Forecasting using TimesNet"
 authors:
 - Mert Onur Cakiroglu
 - Hasan Kurban
@@ -20,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *DSAA*
-publication_short: In *The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024) , San Diego, USA*
+publication_short: In *The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA), San Diego, USA*
 
 
 

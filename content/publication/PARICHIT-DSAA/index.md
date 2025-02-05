@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *DSAA*
-publication_short: In *The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024) , San Diego, USA*
+publication_short: In *The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA), San Diego, USA*
 
 
 
