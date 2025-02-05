@@ -1,10 +1,10 @@
 ---
-title: "Text-To-Energy--Accelerating Quantum Chemistry Calculations through Enhanced Text-to-Vector Encoding and Orbital-Aware Multilayer Perceptron"
+title: "Enabling Ease of Access to Quantum Chemistry with Transformer-Based Text Encoding and Physics-Informed Multilayer Perceptron"
 authors:
 - Can Polat
 - Hasan Kurban
 - Mustafa Kurban
-date: "2024-04-20T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports (under-review)"
+publication: "Physica Scripta (under-review)"
 publication_short: ""
 
 
