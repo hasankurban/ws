@@ -18,9 +18,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *KDD*
-publication_short: In *The Thirteenth International Conference on Learning Representations (ICLR), AI for Accelerated Materials
-Design, Singapore (under-review)*
+publication: In *ICLR*
+publication_short: In *The Thirteenth International Conference on Learning Representations (ICLR), AI for Accelerated Materials Design, Singapore (under-review)*
 
 
 
