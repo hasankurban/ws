@@ -1,5 +1,5 @@
 ---
-title: "A Noise-Adaptive Sequential Extreme Gradient Boosting Algorithm for Optimality Prediction of User Grouping in IM-OFDMA Systems"
+title: "A Noise-Adaptive Machine Learning Framework for Optimizing User Grouping in Dynamic IM-OFDMA Systems"
 authors:
 - Fahrettin Ay
 - Saud Althunibat
