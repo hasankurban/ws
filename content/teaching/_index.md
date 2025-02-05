@@ -33,7 +33,8 @@ a:hover {
 ### **Undergraduate Courses**
 
 <ul>
-  <li><strong>Engineering Lab I: Computation</strong> - Spring 2024, Fall 2024</li>
+  <li><strong>Engineering Lab I: Computation</strong> - Spring 2024, Fall 2024, Spring 2025</li>
+  <li><strong>Introduction to Programming </strong> - Fall 2024, Spring 2025</li>
   <li><strong>Computer Programming and Algorithms</strong> - Fall 2023, Fall 2024</li>
   <li><strong>Introduction to Digital Systems Design</strong> - Fall 2023</li>
   <li><strong>Introduction to Programming and Computers</strong> - Spring 2023</li>
