@@ -29,7 +29,7 @@ summary:
 tags:
 featured: true
 
-links:
+links: 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
