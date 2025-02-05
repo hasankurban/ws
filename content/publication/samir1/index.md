@@ -6,7 +6,7 @@ authors:
 - Rachad Atat
 - Erchin Serpedin
 - Khalid Qaraqe
-date: "2024-05-27T00:00:00Z"
+date: "2025-01-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Neural Networks and Learning Systems (under-review)"
+publication: "IEEE Transactions on Artificial Intelligence (under-review)"
 publication_short: ""
 
 
