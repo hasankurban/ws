@@ -1,11 +1,10 @@
 ---
-title: "Enhancing the electronic properties of TiO2 nanoparticles through carbon doping: An integrated DFTB and computer vision approach"
+title: "Multimodal Neural Network-Based Predictive Modeling of Nanoparticle Properties from Pure Compounds"
 authors:
-- Mustafa Kurban
 - Can Polat
-- Erchin Serpedin
+- Mustafa Kurban
 - Hasan Kurban
-date: "2024-01-04T00:00:00Z"
+date: "2024-11-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computational Materials Science"
+publication: "Machine Learning: Science and Technology"
 publication_short: ""
 
 
