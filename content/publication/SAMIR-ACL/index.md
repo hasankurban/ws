@@ -1,5 +1,5 @@
 ---
-title: "SINdex: Semantic INconsistency Index for Hallucination Detection in LLMs"
+title: "SINdex--Semantic INconsistency Index for Hallucination Detection in LLMs"
 authors:
 - Samir Abdaljalil
 - Parichit Sharma
