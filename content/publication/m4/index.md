@@ -2,9 +2,13 @@
 title: "An Extended Frequency-Improved Legendre Memory Model for Enhanced Long-term Electricity Load Forecasting"
 authors:
 - Mert Onur Cakiroglu
+- Idil Bilge Altun
+- Shahriar Rahman Fahim
 - Hasan Kurban
-- Elham Khorasani Buxton
 - Mehmet Dalkilic
+- Rachad Atat
+- Abdulrahman Takiddin
+- Erchin Serpedin
 
 date: "2025-02-05T00:00:00Z"
 doi: ""
