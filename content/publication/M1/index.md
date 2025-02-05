@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports (under-review)"
+publication: "Scientific Reports"
 publication_short: ""
 
 
