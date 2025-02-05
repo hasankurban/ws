@@ -1,5 +1,5 @@
 ---
-title: "ti-knn--Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data & Large Data Sets"
+title: "ti-knn: Telescope Indexing for k-Nearest Neighbor Search Algorithms over High Dimensional Data & Large Data Sets"
 authors:
 - Madhavan Kalkunte Ramachandra
 - Hasan Kurban
