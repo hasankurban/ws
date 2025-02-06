@@ -2,11 +2,10 @@
 title: "SINdex--Semantic INconsistency Index for Hallucination Detection in LLMs"
 authors:
 - Samir Abdaljalil
-- Parichit Sharma
 - Hasan Kurban
+- Parichit Sharma
 - Rachad Atat
 - Erchin Serpedin
-- Khalid Qaraqe
 date: "2025-02-04T00:00:00Z"
 doi: ""
 
