@@ -1,10 +1,11 @@
 ---
-title: "HalluVerse25--Fine-grained Multilingual Benchmark Dataset for LLM Hallucinations"
+title: "Predicting Optical Bandgaps in C60 and Functionalized Derivatives from Limited Data for Renewable Energy Applications"
 authors:
-- Samir Abdaljalil
+- Mehmet Tuncel
 - Hasan Kurban
 - Erchin Serpedin
-date: "2025-02-25T00:00:00Z"
+- Mustafa Kurban
+date: "2025-02-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +18,8 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACL*
-publication_short: In *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria (under-review)*
+publication: In *CPE-POWERENG*
+publication_short: In *The 19th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), AI-Driven Innovations in Renewable Energy: Challenges and Future Direction (under-review)*
 
 
 
