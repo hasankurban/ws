@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CPE-POWERENG*
-publication_short: In *The 19th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), AI-Driven Innovations in Renewable Energy, Challenges and Future Direction,  Antalya, Turkey (under-review)*
+publication_short: In *The 19th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), AI-Driven Innovations in Renewable Energy, Challenges and Future Directions,  Antalya, Turkey (under-review)*
 
 
 
