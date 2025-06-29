@@ -1,5 +1,5 @@
 ---
-title: "\textit{HalluVerse3}: A Fine-Grained Multilingual Benchmark for Hallucination Detection in LLMs"
+title: "HalluVerse3: A Fine-Grained Multilingual Benchmark for Hallucination Detection in LLMs"
 authors:
 - Samir Abdaljalil
 - Hasan Kurban

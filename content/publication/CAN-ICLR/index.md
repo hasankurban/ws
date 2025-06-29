@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICLR*
-publication_short: In *The Thirteenth International Conference on Learning Representations (ICLR), AI for Accelerated Materials Design, Singapore (accepted)*
+publication_short: In *The Thirteenth International Conference on Learning Representations (ICLR), AI for Accelerated Materials Design, Singapore*
 
 
 
