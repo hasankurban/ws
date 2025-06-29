@@ -12,7 +12,7 @@ interests:
   - Scientific AI
 education:
   courses:
-    - course: "Ph.D. in Computer Science (Minor in Statistics)"
+    - course: "Ph.D. in Computer Science"
       institution: "Indiana University Bloomington, IN, USA"
       year: 2017
 social:
