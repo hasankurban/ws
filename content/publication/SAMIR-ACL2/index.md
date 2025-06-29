@@ -1,5 +1,5 @@
 ---
-title: "SAFE--A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs"
+title: "SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs"
 authors:
 - Samir Abdaljalil
 - Filippo Pallucchini
@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACL*
-publication_short: In *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria (under-review)*
+publication_short: In *The 30th Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China (under-review)*
 
 
 
