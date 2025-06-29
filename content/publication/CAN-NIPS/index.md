@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS*
-publication_short: In *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego CA, USA*
+publication_short: In *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego CA, USA (under-review)*
 
 
 
