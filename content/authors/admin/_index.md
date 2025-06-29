@@ -47,33 +47,40 @@ email: "hakurban@gmail.com"
 highlight_name: false
 ---
 
-## Academic Positions
-
-- Assistant Professor, [College of Science and Engineering](https://www.hbku.edu.qa/en/cse), [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa)
-- Director, [Kurban Intelligence Lab](https://kurbanintelligencelab.com)
-- Adjunct Associate Professor, [Indiana University Bloomington](https://cs.indiana.edu)
-- Adjunct Assistant Professor, [Texas A&M University at Qatar](https://www.qatar.tamu.edu)
-- Editorial Board Member, [Nature Scientific Reports](https://www.nature.com/srep/)
-
 ## Biography
 
-Hasan Kurban leads the Kurban Intelligence Lab at HBKU, where his research focuses on artificial intelligence with emphasis on:
+Dr. Hasan Kurban is an Assistant Professor in the College of Science and Engineering at Hamad Bin Khalifa University (HBKU), where he directs the [Kurban Intelligence Lab](https://kurbanintelligencelab.com). His research interests lie at the intersection of artificial intelligence, computer vision, natural language processing, and scientific computing.
 
-- Foundation models and pretrained architectures  
-- Agentic AI and multi-agent reasoning  
-- Multimodal and cross-modal learning  
-- Symbolic and graph-based time series modeling  
-- Physics-informed learning for scientific systems  
-- Trustworthy, interpretable, and data-centric AI
+His recent work focuses on foundation models, agentic AI, symbolic time series modeling, and multimodal representation learning. He is particularly interested in building trustworthy and efficient AI systems that are generalizable and deployable in scientific, medical, and industrial settings.
 
-His publications have appeared in ICML, NeurIPS, ACL, CVPR, ICLR, *Scientific Reports*, *MLST*, and *IEEE Access*. He has led or contributed to funded research supported by the Qatar Research, Development and Innovation Council (QRDI) and Texas A&M University.
+His group’s research has been published in top-tier venues such as *ICML*, *NeurIPS*, *ACL*, *CVPR*, and *ICLR*, and journals including *Scientific Reports*, *Machine Learning: Science and Technology*, and *IEEE Access*.
 
-## Research Interests
+---
+
+## Academic Appointments
+
+- **Assistant Professor**, College of Science and Engineering, Hamad Bin Khalifa University (HBKU), Qatar  
+- **Director**, Kurban Intelligence Lab, HBKU  
+- **Adjunct Associate Professor**, Indiana University Bloomington, USA  
+- **Adjunct Assistant Professor**, Texas A&M University at Qatar  
+- **Editorial Board Member**, *Nature Scientific Reports*
+
+---
+
+## Research Focus
 
 - Foundation Models  
 - Agentic AI and Multi-Agent Systems  
 - Multimodal and Cross-Modal Learning  
-- Trustworthy and Safe AI  
 - Symbolic and Graph-Based Representations  
-- AI for Science and Engineering  
-- Evaluation of Generative and Retrieval-Augmented Models
+- Trustworthy and Safe AI  
+- Scientific AI Applications (Materials, Energy, Biomedicine)  
+- Evaluation and Benchmarking of Generative Models
+
+---
+
+## Funding & Service
+
+Dr. Kurban's research has been supported by the Qatar Research, Development and Innovation Council (QRDI), Texas A&M University, and other institutions. He regularly serves on program committees and editorial boards for AI conferences and journals, including ICLR, KDD, IJCAI, DSAA, and *Nature Scientific Reports*.
+
+---
