@@ -1,5 +1,5 @@
 ---
-title: "Beyond Atomic Geometry Representations in Materials Science--A Human in the Loop Multimodal Framework"
+title: "Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework"
 authors:
 - Can Polat
 - Hasan Kurban
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICML*
-publication_short: In *The 42nd International Conference on Machine Learning (ICML), DataWorld--Unifying Data Curation Frameworks Across Domains, Vancouver, Canada*
+publication_short: In *The 42nd International Conference on Machine Learning (ICML), DataWorld: Unifying Data Curation Frameworks Across Domains, Vancouver, Canada*
 
 
 
