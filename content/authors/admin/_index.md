@@ -1,7 +1,7 @@
 ---
 title: "Dr. Hasan Kurban"
 superuser: true
-role: "Assistant Professor & Director, Kurban Intelligence Lab"
+role: "Kurban Intelligence Lab at CSE, HBKU"
 organizations: []
 interests:
   - Foundation Models
