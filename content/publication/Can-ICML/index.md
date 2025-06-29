@@ -1,5 +1,5 @@
 ---
-title: "Beyond Atomic Geometry Representations in Materials Science--A Human-in-the-Loop Multimodal Framework"
+title: "Beyond Atomic Geometry Representations in Materials Science--A Human in the Loop Multimodal Framework"
 authors:
 - Can Polat
 - Hasan Kurban

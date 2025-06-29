@@ -1,5 +1,5 @@
 ---
-title: "PhysicsNeRF--Physics-Guided 3D Reconstruction from Sparse Views"
+title: "PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views"
 authors:
 - Mohamed Rayan Barhdadi
 - Hasan Kurban

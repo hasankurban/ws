@@ -1,5 +1,5 @@
 ---
-title: "Multivariate de Bruijn Graphs--A Symbolic Graph Framework for Time Series Forecasting"
+title: "Multivariate de Bruijn Graphs: A Symbolic Graph Framework for Time Series Forecasting"
 authors:
 - Mert Onur Cakiroglu
 - Idil Bilge Altun
