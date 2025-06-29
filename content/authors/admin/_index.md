@@ -1,7 +1,7 @@
 ---
 title: "Dr. Hasan Kurban"
 superuser: true
-role: "Director, Kurban Intelligence Lab"
+role: "Assistant Professor & Director, Kurban Intelligence Lab"
 organizations: []
 interests:
   - Foundation Models
@@ -43,8 +43,9 @@ social:
 email: "hakurban@gmail.com"
 highlight_name: false
 ---
+
 <div style="text-align: justify">
 
-Dr. Kurban is an Assistant Professor at Hamad Bin Khalifa University and Director of the Kurban Intelligence Lab, an AI research group focused on foundation models, agentic AI, multimodal learning, and symbolic time series modeling. His research develops robust and generalizable AI systems with applications in scientific and engineering domains. His work appears in ICML, ICLR, NeurIPS, ACL, and CVPR, and he serves on the editorial board of *Nature Scientific Reports* and reviews for major AI venues.
+Dr. Kurban is an Assistant Professor at <a href="https://www.hbku.edu.qa/en" target="_blank">Hamad Bin Khalifa University (HBKU)</a> and Director of the <a href="https://kurbanintelligencelab.com" target="_blank">Kurban Intelligence Lab</a>, an AI research group focused on foundation models, agentic AI, multimodal learning, and symbolic time series modeling. He also serves as Adjunct Associate Professor at <a href="https://www.indiana.edu/" target="_blank">Indiana University Bloomington</a>. His research develops robust and generalizable AI systems with applications in scientific and engineering domains. His work appears in ICML, ICLR, NeurIPS, ACL, and CVPR. He is a member of the editorial board of <em>Nature Scientific Reports</em> and a regular reviewer for top-tier venues in AI and data science.
 
 </div>
