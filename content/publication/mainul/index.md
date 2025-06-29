@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICECET*
-publication_short: In *The 5th International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris, France (under-review)*
+publication_short: In *The 5th International Conference on Electrical, Computer and Energy Technologies (ICECET), Paris, France*
 
 
 
