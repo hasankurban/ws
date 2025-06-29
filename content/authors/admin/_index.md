@@ -7,7 +7,7 @@ bio: As a Computer Scientist and Machine Learning Researcher, I am passionate ab
 interests:
   - Artificial Intelligence
   - Software Engineering
-  - Computational Science
+  - AI for Science
 education:
   courses:  
     - course: Ph.D. in Computer Science
