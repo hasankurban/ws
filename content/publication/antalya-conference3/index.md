@@ -1,9 +1,9 @@
 ---
-title: "Instance-Based Learning-Driven Density of States Analysis in Functionalized Fullerene Derivatives for Optimizing Organic Photovoltaics"
+title: "Data-Efficient Hydrogen Adsorption Prediction in Copper Nanoclusters: A Computer Vision-Based Transfer Learning Approach"
 authors:
-- Parichit Sharma
+- Can Polat
 - Hasan Kurban
-- Mehmet Dalkilic
+- Erchin Serpedin
 - Mustafa Kurban
 date: "2025-05-04T00:00:00Z"
 doi: ""
