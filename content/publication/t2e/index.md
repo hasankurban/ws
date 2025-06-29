@@ -4,7 +4,7 @@ authors:
 - Can Polat
 - Hasan Kurban
 - Mustafa Kurban
-date: "2025-02-01T00:00:00Z"
+date: "2025-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physica Scripta (under-review)"
+publication: "Physica Scripta (accepted)"
 publication_short: ""
 
 
