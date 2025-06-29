@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CVPR*
-publication_short: In *The 42nd IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Multimodal Learning for Materials Science (MM4Mat),  Nashville TN, USA (under-review)*
+publication_short: In *The 42nd IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), Multimodal Learning for Materials Science (MM4Mat),  Nashville TN, USA (spotlight)*
 
 
 
