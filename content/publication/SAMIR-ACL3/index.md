@@ -1,5 +1,5 @@
 ---
-title: "HalluVerse25--Fine-grained Multilingual Benchmark Dataset for LLM Hallucinations"
+title: "\textit{HalluVerse3}: A Fine-Grained Multilingual Benchmark for Hallucination Detection in LLMs"
 authors:
 - Samir Abdaljalil
 - Hasan Kurban
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACL*
-publication_short: In *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria (under-review)*
+publication_short: In *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), San Diego CA, USA (under-review)*
 
 
 
