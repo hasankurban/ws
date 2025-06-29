@@ -43,5 +43,8 @@ social:
 email: "hakurban@gmail.com"
 highlight_name: false
 ---
+<div style="text-align: justify">
 
 Dr. Kurban is an Assistant Professor at [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa/en) and Director of the [Kurban Intelligence Lab](https://kurbanintelligencelab.com), an AI research group focused on foundation models, agentic AI, multimodal learning, and symbolic time series modeling. He also serves as Adjunct Associate Professor at [Indiana University Bloomington](https://www.indiana.edu/). His research aims to develop robust and generalizable AI systems for scientific and engineering applications. His work has been published in leading venues such as ICML, ICLR, NeurIPS, CVPR, ACL, and KDD. He serves on the editorial board of *Nature Scientific Reports* and regularly reviews for top-tier AI and data science conferences.
+
+</div>
