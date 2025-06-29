@@ -4,7 +4,9 @@ superuser: true
 role: "Assistant Professor & Director, Kurban Intelligence Lab"
 organizations: []
 bio: |
-  Hasan Kurban is an Assistant Professor at Hamad Bin Khalifa University (HBKU), where he leads the Kurban Intelligence Lab. His research spans foundation models, agentic AI, multimodal learning, symbolic representations, and AI for scientific and engineering applications. He also holds adjunct appointments at Indiana University Bloomington and Texas A&M University at Qatar. His work has been published in ICML, NeurIPS, ACL, CVPR, ICLR, and journals such as Scientific Reports and MLST. He serves on the editorial board of Nature Scientific Reports and reviews regularly for ICLR, IJCAI, KDD, and DSAA. His group’s work is supported by funding from the Qatar Research, Development and Innovation Council (QRDI) and Texas A&M University, with recent focus areas including semantic consistency in language models, physics-informed learning, and symbolic time series modeling.
+  Hasan Kurban is an Assistant Professor at Hamad Bin Khalifa University (HBKU), where he directs the Kurban Intelligence Lab. He also holds adjunct appointments at Indiana University Bloomington and Texas A&M University at Qatar. His research focuses on foundation models, agentic AI, multimodal learning, symbolic and graph-based representations, and trustworthy AI for scientific and engineering applications. His group develops methods that bridge structure and data-driven learning, with an emphasis on semantic alignment, physics-informed modeling, and low-latency deployment.
+
+  His work has been published in top venues including ICML, NeurIPS, ICLR, CVPR, and ACL, and in journals such as *Scientific Reports*, *Machine Learning: Science and Technology*, and *IEEE Access*. He serves on the editorial board of *Nature Scientific Reports* and regularly reviews for leading AI conferences including ICLR, IJCAI, KDD, and DSAA. His research has been supported by the Qatar Research, Development and Innovation Council (QRDI) and Texas A&M University.
 interests:
   - Foundation Models
   - Agentic AI
@@ -44,13 +46,4 @@ social:
     link: "media/cv.pdf"
 email: "hakurban@gmail.com"
 highlight_name: false
----
-
-## Research Areas
-
-- Foundation Models and Agentic AI  
-- Multimodal and Symbolic Learning  
-- Time Series and Graph Representations  
-- Trustworthy and Interpretable AI  
-- AI for Materials, Energy, and Health
 ---
