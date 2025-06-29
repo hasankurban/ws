@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Expert Systems with Applications  (under-review)"
+publication: "Journal of Big Data  (under-review)"
 publication_short: ""
 
 

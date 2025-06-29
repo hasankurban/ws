@@ -1,12 +1,12 @@
 ---
-title: "Novel De Bruijn Graph Embeddings for Enhanced Time Series Forecasting"
+title: "A Novel Discrete Time Series Representation with De Bruijn Graphs for Enhanced Forecasting using TimesNet"
 authors:
 - Mert Onur Cakiroglu
 - Hasan Kurban
 - Elham Khorasani Buxton
 - Mehmet Dalkilic
 
-date: "2025-01-13T00:00:00Z"
+date: "2025-05-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
