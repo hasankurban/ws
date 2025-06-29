@@ -43,5 +43,8 @@ social:
 email: "hakurban@gmail.com"
 highlight_name: false
 ---
+<div style="text-align: justify">
 
 Dr. Kurban is an Assistant Professor at Hamad Bin Khalifa University and Director of the Kurban Intelligence Lab, an AI research group focused on foundation models, agentic AI, multimodal learning, and symbolic time series modeling. His research develops robust and generalizable AI systems with applications in scientific and engineering domains. His work appears in ICML, ICLR, NeurIPS, ACL, and CVPR, and he serves on the editorial board of *Nature Scientific Reports* and reviews for major AI venues.
+
+</div>
