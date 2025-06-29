@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *EAAAI*
-publication_short: In *26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence (EAAAI),  Limassol,  Cyprus (under-review)*
+publication_short: In *26th Engineering Applications of Neural Networks / Engineering Applications and Advances of Artificial Intelligence (EAAAI),  Limassol,  Cyprus*
 
 
 
