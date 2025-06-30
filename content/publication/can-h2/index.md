@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Hydrogen Energy (under-review)"
+publication: "Nature Communications (under-review)"
 publication_short: ""
 
 
