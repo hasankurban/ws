@@ -6,7 +6,7 @@ authors:
 - M. Oguzhan Kulekci
 - Mehmet Dalkilic
 
-date: "2025-06-08T00:00:00Z"
+date: "2025-06-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports (under-review)"
+publication: "Scientific Reports (accepted)"
 publication_short: ""
 
 
