@@ -6,7 +6,7 @@ authors:
 - Elham Khorasani Buxton
 - Mehmet Dalkilic
 
-date: "2025-06-09T00:00:00Z"
+date: "2025-06-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Access (under-review)"
+publication: "IEEE Access (accept)"
 publication_short: ""
 
 
