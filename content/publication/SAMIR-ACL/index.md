@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Artificial Intelligence Research (under-review)"
+publication: "IEEE Open Journal of the Computer Society (under-review)"
 publication_short: ""
 
 
