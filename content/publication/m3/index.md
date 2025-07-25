@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Access (accept)"
+publication: "IEEE Access (accepted)"
 publication_short: ""
 
 
