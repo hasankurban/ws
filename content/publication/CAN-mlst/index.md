@@ -5,7 +5,7 @@ authors:
 - Erchin Serpedin
 - Mustafa Kurban
 - Hasan Kurban
-date: "2025-07-07T00:00:00Z"
+date: "2025-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Machine Learning: Science and Technology  (under-review)"
+publication: "Machine Learning: Science and Technology  (accepted)"
 publication_short: ""
 
 
