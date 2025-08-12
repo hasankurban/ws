@@ -1,9 +1,9 @@
 ---
-title: "Geometric-k-means--An Unbounded, Accurate and Energy-Efficient k-means"
+title: "Geometric-k-means: A Bound Free Approach to Fast and Eco-Friendly k-means"
 authors:
 - Parichit Sharma
-- Hasan Kurban
 - Marcin Malec
+- Hasan Kurban
 - Oguzhan Kulekci
 - Mehmet M. Dalkilic
 date: "2025-06-10T00:00:00Z"
