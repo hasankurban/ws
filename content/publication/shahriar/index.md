@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *GC Wkshps*
-publication_short: In *IEEE Globecom Workshops (GC Wkshps): Workshop on Data Driven and AI-Enabled Digital Twin Networks and Applications (TwinNetApp), Taipei, Taiwan, 2025 (under-review)*
+publication_short: In *IEEE Globecom Workshops (GC Wkshps), Workshop on Data Driven and AI-Enabled Digital Twin Networks and Applications (TwinNetApp), Taipei, Taiwan, 2025 (under-review)*
 
 
 
