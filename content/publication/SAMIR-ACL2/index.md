@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACL*
-publication_short: In *The 30th Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China (under-review)*
+publication_short: In *The 30th Empirical Methods in Natural Language Processing (EMNLP) Findings, Suzhou, China (accepted)*
 
 
 
