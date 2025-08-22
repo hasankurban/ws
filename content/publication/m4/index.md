@@ -10,7 +10,7 @@ authors:
 - Abdulrahman Takiddin
 - Erchin Serpedin
 
-date: "2025-06-10T00:00:00Z"
+date: "2025-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Open Access Journal of Power and Energy, 2025 (under-review)"
+publication: "IEEE Open Access Journal of Power and Energy, 2025 (accepted)"
 publication_short: ""
 
 
