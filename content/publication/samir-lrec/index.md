@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Multilingual \& Code-Switched Alignment in LLMs via Synthetic Natural Language Inference"
+title: "Evaluating Multilingual and Code-Switched Alignment in LLMs via Synthetic Natural Language Inference"
 authors:
 - Samir Abdaljalil
 - Erchin Serpedin
