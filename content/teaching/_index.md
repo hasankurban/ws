@@ -33,11 +33,11 @@ a:hover {
 ### **Undergraduate Courses**
 
 <ul>
+  <li><strong>Machine Learning for Electrical Engineering</strong> - Spring 2026</li>
   <li><strong>Independent Study: Research</strong> - Spring 2025, Summer 2025, Fall 2025, Spring 2026</li>
   <li><strong>Independent Study: Directed Studies</strong> - Spring 2026</li>
-  <li><strong>Machine Learning for Electrical Engineering</strong> - Spring 2026</li>
   <li><strong>Engineering Lab I: Computation</strong> - Spring 2024, Fall 2024, Spring 2025</li>
-  <li><strong>Introduction to Programming</strong> - Fall 2024, Spring 2025</li>
+  <li><strong>Introduction to Programming</strong> - Fall 2024, Spring 2025, Fall 2025</li>
   <li><strong>Computer Programming and Algorithms</strong> - Fall 2023, Fall 2024</li>
   <li><strong>Introduction to Digital Systems Design</strong> - Fall 2023</li>
   <li><strong>Introduction to Programming and Computers</strong> - Spring 2023</li>
