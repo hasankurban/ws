@@ -41,18 +41,18 @@ highlight_name: false
 ---
 <div style="text-align: justify">
 
-Hasan Kurban is an Assistant Professor at [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa/en) and Founding Director of the [Kurban Intelligence Lab (KIL)](https://kurbanintelligencelab.com), with adjunct appointments at [Indiana University Bloomington](https://www.indiana.edu/) and [Texas A&M University at Qatar](https://www.qatar.tamu.edu/). His research investigates the foundations of modern artificial intelligence, with particular emphasis on reliability, interpretability, and scientific applicability of large-scale models.
+Hasan Kurban is an Assistant Professor at [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa/en) and Founding Director of the [Kurban Intelligence Lab (KIL)](https://kurbanintelligencelab.com), with adjunct appointments at [Indiana University Bloomington](https://www.indiana.edu/) and [Texas A&M University at Qatar](https://www.qatar.tamu.edu/). His research investigates the foundations of modern artificial intelligence, with particular emphasis on the reliability, interpretability, and scientific applicability of large-scale models.
+
+</div>
 
 ## Research
 
-**AI Safety, Interpretability, and Alignment.** Mechanistic interpretability and alignment of large language models, including hallucination detection and mitigation, sparse-autoencoder-based interventions, uncertainty quantification, calibration, and red-teaming. Methodological emphasis on auditable behavior in multimodal and scientific systems.
+**AI Safety, Interpretability, and Alignment.** Interpretability and alignment of large language models, including hallucination detection and mitigation, sparse-autoencoder-based interventions for hallucination control, uncertainty quantification, calibration, and red-teaming. Methodological emphasis on auditable behavior in multimodal and scientific systems.
 
-**Reasoning and Inference-Time Compute.** Mathematical and procedural reasoning in language models under the test-time scaling paradigm. Topics include abstention-aware reasoning, posterior-constrained inference, theorem-of-thought multi-agent reasoning, and the robustness of chain-of-thought under noisy, conflicting, or adversarial evidence.
+**Reasoning and Inference-Time Compute.** Mathematical and procedural reasoning in language models under the test-time scaling paradigm. Topics include abstention-aware reasoning, posterior-constrained inference for mathematical reasoning, theorem-of-thought multi-agent reasoning, and the robustness of chain-of-thought to noisy, conflicting, or adversarial evidence.
 
-**Agentic AI and Multi-Agent Systems.** Long-horizon autonomous agents with tool use, planning, and verifiable decision-making. Specific lines of work include scientific discovery agents for quantum chemistry and materials, biomedical and healthcare agents, LLM-as-a-judge evaluation, and coordination across heterogeneous knowledge sources.
+**Agentic AI and Multi-Agent Systems.** Long-horizon autonomous agents with tool use, planning, and verifiable behavior. Specific lines of work include scientific discovery agents for quantum chemistry and materials, biomedical and healthcare agents, LLM-as-a-judge evaluation frameworks, and multi-agent coordination across heterogeneous knowledge sources.
 
 **Multimodal Foundation Models.** Cross-modal grounding and reasoning over language, vision, and structured scientific data. Topics include vision–language models, video understanding and temporal reasoning, world models for physical systems, and multimodal benchmarks for crystalline materials, medical imaging, and quantum chemistry.
 
-**AI for Science.** Foundation models and agentic systems for autonomous scientific discovery. Application areas include materials informatics and quantum chemistry (with equivariant interatomic potentials and crystalline-system foundation models), biomedical imaging, hydrogen storage and energy systems, and physics-informed and symmetry-aware learning.
-
-</div>
+**AI for Science.** Foundation models and agentic systems for scientific discovery. Application areas include materials informatics and quantum chemistry (with equivariant interatomic potentials and foundation models for crystalline systems), biomedical imaging, hydrogen storage and energy systems, and physics-informed and symmetry-aware learning.
