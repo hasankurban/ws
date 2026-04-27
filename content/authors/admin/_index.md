@@ -41,18 +41,18 @@ highlight_name: false
 ---
 <div style="text-align: justify">
 
-Dr. Hasan Kurban is an Assistant Professor at [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa/en) and Founding Director of the [Kurban Intelligence Lab (KIL)](https://kurbanintelligencelab.com), with adjunct appointments at [Indiana University Bloomington](https://www.indiana.edu/) and [Texas A&M University at Qatar](https://www.qatar.tamu.edu/). His work spans the foundations and applications of modern artificial intelligence, with a focus on building AI systems that are reliable, interpretable, and scientifically grounded.
+Hasan Kurban is an Assistant Professor at [Hamad Bin Khalifa University (HBKU)](https://www.hbku.edu.qa/en) and Founding Director of the [Kurban Intelligence Lab (KIL)](https://kurbanintelligencelab.com), with adjunct appointments at [Indiana University Bloomington](https://www.indiana.edu/) and [Texas A&M University at Qatar](https://www.qatar.tamu.edu/). His research investigates the foundations of modern artificial intelligence, with particular emphasis on reliability, interpretability, and scientific applicability of large-scale models.
 
-## Research at the Frontier of AI
+## Research
 
-**AI Safety, Interpretability, and Alignment.** Understanding and shaping the internal behavior of large language models. Research includes hallucination detection and mitigation, sparse-autoencoder-based interventions, uncertainty quantification, and interpretability methods that make multimodal and scientific AI systems auditable.
+**AI Safety, Interpretability, and Alignment.** Mechanistic interpretability and alignment of large language models, including hallucination detection and mitigation, sparse-autoencoder-based interventions, uncertainty quantification, calibration, and red-teaming. Methodological emphasis on auditable behavior in multimodal and scientific systems.
 
-**Reasoning and Inference-Time Compute.** How models think, search, and verify at inference. Research spans abstention-aware reasoning, posterior-constrained inference, theorem-of-thought multi-agent reasoning, and the robustness of chain-of-thought to evidence perturbations.
+**Reasoning and Inference-Time Compute.** Mathematical and procedural reasoning in language models under the test-time scaling paradigm. Topics include abstention-aware reasoning, posterior-constrained inference, theorem-of-thought multi-agent reasoning, and the robustness of chain-of-thought under noisy, conflicting, or adversarial evidence.
 
-**Agentic AI and Multi-Agent Systems.** Long-horizon autonomy and tool use for real-world deployment. Research includes scientific discovery agents, biomedical and healthcare agents, LLM-as-a-judge evaluation frameworks, and multi-agent coordination across heterogeneous knowledge sources.
+**Agentic AI and Multi-Agent Systems.** Long-horizon autonomous agents with tool use, planning, and verifiable decision-making. Specific lines of work include scientific discovery agents for quantum chemistry and materials, biomedical and healthcare agents, LLM-as-a-judge evaluation, and coordination across heterogeneous knowledge sources.
 
-**Multimodal Foundation Models.** Models that perceive and reason across modalities. Research covers vision–language models, video understanding and temporal reasoning, and multimodal benchmarks for crystalline materials, medical imaging, and structured scientific data.
+**Multimodal Foundation Models.** Cross-modal grounding and reasoning over language, vision, and structured scientific data. Topics include vision–language models, video understanding and temporal reasoning, world models for physical systems, and multimodal benchmarks for crystalline materials, medical imaging, and quantum chemistry.
 
-**AI for Science.** AI as a partner in scientific discovery. Research includes materials informatics and quantum chemistry, biomedical AI and medical imaging, energy systems and hydrogen storage, and physics-informed and symmetry-aware learning.
+**AI for Science.** Foundation models and agentic systems for autonomous scientific discovery. Application areas include materials informatics and quantum chemistry (with equivariant interatomic potentials and crystalline-system foundation models), biomedical imaging, hydrogen storage and energy systems, and physics-informed and symmetry-aware learning.
 
 </div>
