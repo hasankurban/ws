@@ -5,11 +5,6 @@ role: "Founding Director, Kurban Intelligence Lab"
 organizations:
   - name: "Hamad Bin Khalifa University"
     url: "https://www.hbku.edu.qa/en"
-education:
-  courses:
-    - course: "Ph.D. in Computer Science"
-      institution: "Indiana University Bloomington, IN, USA"
-      year: 2017
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,6 +32,6 @@ highlight_name: false
 ---
 <div style="text-align: justify">
 
-Hasan Kurban is an Assistant Professor at <a href="https://www.hbku.edu.qa/en">Hamad Bin Khalifa University (HBKU)</a> and Founding Director of the <a href="https://kurbanintelligencelab.com">Kurban Intelligence Lab (KIL)</a>, with adjunct appointments at <a href="https://www.indiana.edu/">Indiana University Bloomington</a> and <a href="https://www.qatar.tamu.edu/">Texas A&amp;M University at Qatar</a>. He received his Ph.D. in Computer Science with a minor in Statistics from Indiana University Bloomington in 2017. His research investigates the foundations of trustworthy and interpretable large-scale AI systems, with interests spanning trustworthy AI and foundation model interpretability, reasoning and inference-time compute, agentic AI and LLM agents, multimodal foundation models, and AI for science. The lab draws on methods from machine learning, statistical inference, and the natural sciences, with applications to scientific discovery in materials informatics, quantum chemistry, biomedical imaging, and energy systems.
+Hasan Kurban is an Assistant Professor at <a href="https://www.hbku.edu.qa/en">Hamad Bin Khalifa University (HBKU)</a> and Founding Director of the <a href="https://kurbanintelligencelab.com">Kurban Intelligence Lab (KIL)</a>, with adjunct appointments at <a href="https://www.indiana.edu/">Indiana University Bloomington</a> and <a href="https://www.qatar.tamu.edu/">Texas A&amp;M University at Qatar</a>. His research investigates the foundations of trustworthy and interpretable large-scale AI systems, drawing on methods from machine learning, statistical inference, and the natural sciences. Current work in the lab spans trustworthy AI and foundation model interpretability, reasoning and inference-time compute, agentic AI and LLM agents, multimodal foundation models, and AI for science, with applications to scientific discovery in materials informatics, quantum chemistry, biomedical imaging, and energy systems. He received his Ph.D. in Computer Science from Indiana University Bloomington in 2017, and serves on the editorial board of <a href="https://www.nature.com/srep/">Nature Scientific Reports</a>.
 
 </div>
