@@ -2,7 +2,9 @@
 title: "Dr. Hasan Kurban"
 superuser: true
 role: "Founding Director, Kurban Intelligence Lab"
-organizations: []
+organizations:
+  - name: "Hamad Bin Khalifa University"
+    url: "https://www.hbku.edu.qa/en"
 interests:
   - Trustworthy AI and Foundation Model Interpretability
   - Reasoning and Inference-Time Compute
@@ -41,7 +43,7 @@ highlight_name: false
 ---
 <div style="text-align: justify">
 
-Hasan Kurban is an Assistant Professor at <a href="https://www.hbku.edu.qa/en">Hamad Bin Khalifa University (HBKU)</a> and Founding Director of the <a href="https://kurbanintelligencelab.com">Kurban Intelligence Lab (KIL)</a>, with adjunct appointments at <a href="https://www.indiana.edu/">Indiana University Bloomington</a> and <a href="https://www.qatar.tamu.edu/">Texas A&amp;M University at Qatar</a>. His research investigates the foundations of trustworthy and interpretable large-scale AI systems, drawing on methods from machine learning, statistical inference, and the natural sciences.
+Hasan Kurban is an Assistant Professor at <a href="https://www.hbku.edu.qa/en">Hamad Bin Khalifa University (HBKU)</a> and Founding Director of the <a href="https://kurbanintelligencelab.com">Kurban Intelligence Lab (KIL)</a>, with adjunct appointments at <a href="https://www.indiana.edu/">Indiana University Bloomington</a> and <a href="https://www.qatar.tamu.edu/">Texas A&amp;M University at Qatar</a>. He received his Ph.D. in Computer Science with a minor in Statistics from Indiana University Bloomington in 2017. His research investigates the foundations of trustworthy and interpretable large-scale AI systems, drawing on methods from machine learning, statistical inference, and the natural sciences.
 
 <h2 style="margin-top: 2.4em; margin-bottom: 0.8em; font-weight: 600; letter-spacing: 0.01em; padding-bottom: 0.35em; border-bottom: 1px solid #d8d8d8;">Research</h2>
 
